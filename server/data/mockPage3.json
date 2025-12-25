@@ -1,0 +1,1370 @@
+{
+  "result": {
+    "curPage": 3,
+    "pageSize": 20,
+    "totalSize": 212,
+    "data": [
+      {
+        "id": 10624,
+        "templateName": "Cinema Heartbeat",
+        "templateEnName": "Cinema Heartbeat",
+        "templateCnName": "暗厅心动",
+        "categoryCnName": "尺度2",
+        "categoryId": 529,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 1.18,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ac0966dfc7fb4c779adb9e315f987a5b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ac0966dfc7fb4c779adb9e315f987a5b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ac0966dfc7fb4c779adb9e315f987a5b.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ac0966dfc7fb4c779adb9e315f987a5b.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1040 x 880",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c3a7a1b1-41e7-48f5-9a80-0302b1f7b3c8",
+        "isDefault": 0,
+        "sort": 243,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/cbab09ef2c544e0aadf13935d939b128.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "cinema-heartbeat",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10628,
+        "templateName": "Stall Caress",
+        "templateEnName": "Stall Caress",
+        "templateCnName": "隔间轻蹭",
+        "categoryCnName": "尺度9",
+        "categoryId": 533,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.52,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9d96ec622524b389a5bcd06fe3a0321.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9d96ec622524b389a5bcd06fe3a0321.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9d96ec622524b389a5bcd06fe3a0321.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9d96ec622524b389a5bcd06fe3a0321.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "662 x 1264",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "1b9d6bcd-bbfd-4629-9f59-28e26107070a",
+        "isDefault": 0,
+        "sort": 247,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ba2bc65f14a64ae08fd8d381ec3e7321.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "stall-caress",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10629,
+        "templateName": "Wild Entwine",
+        "templateEnName": "Wild Entwine",
+        "templateCnName": "森野狼缠",
+        "categoryCnName": "尺度10",
+        "categoryId": 534,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.74,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5a32d2cb295540e598d0aab529f04f59.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5a32d2cb295540e598d0aab529f04f59.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5a32d2cb295540e598d0aab529f04f59.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5a32d2cb295540e598d0aab529f04f59.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "816 x 1104",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "8f9b1b2c-5a3d-4e6f-8c7b-9a1d3e5f7b9a",
+        "isDefault": 0,
+        "sort": 248,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/02eaa6f4f37e4c8f84f80ce2c5cb3f00.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "wild-entwine",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10622,
+        "templateName": "Bathroom Fever",
+        "templateEnName": "Bathroom Fever",
+        "templateCnName": "盥室生情",
+        "categoryCnName": "尺度8",
+        "categoryId": 528,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d2af647c3ef74211a826d2a0b3b4cd99.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d2af647c3ef74211a826d2a0b3b4cd99.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d2af647c3ef74211a826d2a0b3b4cd99.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d2af647c3ef74211a826d2a0b3b4cd99.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f8b2b6a0-5b9c-4e1a-8d6e-2c7b3a9d1f0e",
+        "isDefault": 0,
+        "sort": 242,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/47692bf37ca240a9a3bea45fead14897.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "bathroom-fever",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10637,
+        "templateName": "Enter My Desire",
+        "templateEnName": "Enter My Desire",
+        "templateCnName": "呢喃之夜",
+        "categoryCnName": "激情21",
+        "categoryId": 542,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.74,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f290fc145c94566be42982af0958002.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f290fc145c94566be42982af0958002.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f290fc145c94566be42982af0958002.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f290fc145c94566be42982af0958002.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "816 x 1104",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "1e7a5c9d-8b2f-46e3-a0d4-9c5b2e8f1d7a",
+        "isDefault": 0,
+        "sort": 256,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/907235abcd694231a9f4b0b6d59a611f.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "enter-my-desire",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10621,
+        "templateName": "Hot Contact",
+        "templateEnName": "Hot Contact",
+        "templateCnName": "贴肤炽念",
+        "categoryCnName": "尺度5",
+        "categoryId": 527,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/58c486475ff34e8899ca27cf63fafc0c.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/58c486475ff34e8899ca27cf63fafc0c.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/58c486475ff34e8899ca27cf63fafc0c.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/58c486475ff34e8899ca27cf63fafc0c.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c4e1b8c2-7a2e-4dcb-9a3c-10e8a9e6b7d4",
+        "isDefault": 0,
+        "sort": 241,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/c4e34a83bb674e4ba5dd46239d8b5b38.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "hot-contact",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10431,
+        "templateName": "Spicy Stage",
+        "templateEnName": "Spicy Stage",
+        "templateCnName": "辣舞台",
+        "categoryCnName": "跳舞4",
+        "categoryId": 324,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d91b058a66784396b7c8239f28858517.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d91b058a66784396b7c8239f28858517.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d91b058a66784396b7c8239f28858517.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d91b058a66784396b7c8239f28858517.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "e0f6584b-d52e-4795-b37d-9fb601a75708",
+        "isDefault": 0,
+        "sort": 59,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/1042bf3141af48e392bcc35a09f939e1.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "spicy-stage",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10432,
+        "templateName": "Seduce Dance",
+        "templateEnName": "Seduce Dance",
+        "templateCnName": "撩人舞",
+        "categoryCnName": "跳舞5",
+        "categoryId": 325,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cdd89fcc86d24525a9b1ca2582788911.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cdd89fcc86d24525a9b1ca2582788911.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cdd89fcc86d24525a9b1ca2582788911.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cdd89fcc86d24525a9b1ca2582788911.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a7e4e3a2-2d17-4d9f-8a0c-5d6e7f8b9c0d",
+        "isDefault": 0,
+        "sort": 60,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/17010a7641ff41308a642ee96a658adf.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Seduce Dance Video Template – Bold Moves",
+        "pageSeoDesc": "Add drama and allure with Seduce Dance in PixPop. Perfect for performance reels, music videos, and creative edits. Try now!",
+        "templateSeoPath": "seduce-dance",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10521,
+        "templateName": "Figurine Maker",
+        "templateEnName": "Figurine Maker",
+        "templateCnName": "迷你手办",
+        "categoryCnName": "手办1",
+        "categoryId": 430,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bc4bae6e6f284588ae3280b06c5dcc0e.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bc4bae6e6f284588ae3280b06c5dcc0e.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bc4bae6e6f284588ae3280b06c5dcc0e.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bc4bae6e6f284588ae3280b06c5dcc0e.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c4a1b0d2-1b1e-4b3b-8a0e-6b2c8e1a3d5f",
+        "isDefault": 0,
+        "sort": 146,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/b8bed4e4b0a14394acbd2fe352c52c08.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "figurine-maker",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "photo",
+            "desc": "Please upload a clear photo of the subject.",
+            "width": 720,
+            "height": 1280,
+            "limit": []
+          }
+        ]
+      },
+      {
+        "id": 10433,
+        "templateName": "Echoes",
+        "templateEnName": "Echoes",
+        "templateCnName": "时光回响",
+        "categoryCnName": "老照片修复",
+        "categoryId": 326,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/afdc8dcfd06547eba5a7363cd9cf5696.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/afdc8dcfd06547eba5a7363cd9cf5696.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/afdc8dcfd06547eba5a7363cd9cf5696.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/afdc8dcfd06547eba5a7363cd9cf5696.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f8a2e5b1-c394-4d76-9c83-7e28d6a51f0d",
+        "isDefault": 0,
+        "sort": 61,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/0f81ddd04f0143e49f78c38472bdf6ca.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Echoes of Time Video Template – Cinematic Drama",
+        "pageSeoDesc": "Add depth and emotion with Echoes of Time in PixPop. Perfect for trailers, storytelling reels, and epic edits. Try it free!",
+        "templateSeoPath": "echoes-of-time",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10427,
+        "templateName": "Crushing Blow",
+        "templateEnName": "Crushing Blow",
+        "templateCnName": "慢拳重击",
+        "categoryCnName": "被打",
+        "categoryId": 320,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f27b7426161e47c9bcd324f082ebd845.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f27b7426161e47c9bcd324f082ebd845.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f27b7426161e47c9bcd324f082ebd845.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f27b7426161e47c9bcd324f082ebd845.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "e3255b42-e5d2-4d79-b421-fce936323345",
+        "isDefault": 0,
+        "sort": 55,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/c692edb8214a4a5a926a6e6cb178c11b.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "crushing-blow",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10528,
+        "templateName": "Action Figurine",
+        "templateEnName": "Action Figurine",
+        "templateCnName": "动感手办",
+        "categoryCnName": "手办3",
+        "categoryId": 435,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d36a3c0214864412b014798e9d7fa24c.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d36a3c0214864412b014798e9d7fa24c.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d36a3c0214864412b014798e9d7fa24c.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d36a3c0214864412b014798e9d7fa24c.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "1b9d6bcd-bbfd-462f-9e5d-37d925857e09",
+        "isDefault": 0,
+        "sort": 151,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ee348d2806854335a5f747b06f92e8ae.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "action-figurine",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "photo",
+            "desc": "Please upload a clear photo of the subject.",
+            "width": 720,
+            "height": 1280,
+            "limit": []
+          }
+        ]
+      },
+      {
+        "id": 10609,
+        "templateName": "Holy Lion",
+        "templateEnName": "Holy Lion",
+        "templateCnName": "圣狮之约",
+        "categoryCnName": "动物走秀-白狮女",
+        "categoryId": 515,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/51fe56030497412eb5d6ef433db45f3c.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/51fe56030497412eb5d6ef433db45f3c.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/51fe56030497412eb5d6ef433db45f3c.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/51fe56030497412eb5d6ef433db45f3c.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a7c12b8e-1f3a-4d5b-9c6d-8e7f0a9b3c1d",
+        "isDefault": 0,
+        "sort": 229,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 0,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/d55dc55919cd4fa687798069d8570fbf.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "holy-lion",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10522,
+        "templateName": "Mini Morph",
+        "templateEnName": "Mini Morph",
+        "templateCnName": "微缩变身",
+        "categoryCnName": "手办2",
+        "categoryId": 431,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ee2abcefa974c2593c2eb995a032cd5.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ee2abcefa974c2593c2eb995a032cd5.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ee2abcefa974c2593c2eb995a032cd5.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ee2abcefa974c2593c2eb995a032cd5.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f7e2a8c5-6b9d-4e3a-8f1c-42d6579e0ab7",
+        "isDefault": 0,
+        "sort": 147,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/4a057a91e0244acebd301b677e9ce554.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "mini-morph",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "photo",
+            "desc": "Please upload a clear photo of the subject.",
+            "width": 720,
+            "height": 1280,
+            "limit": []
+          }
+        ]
+      },
+      {
+        "id": 10610,
+        "templateName": "White Glory",
+        "templateEnName": "White Glory",
+        "templateCnName": "荣耀白狮",
+        "categoryCnName": "动物走秀-白狮男",
+        "categoryId": 516,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/19fb94f4cb4541b9b013e3409458bea8.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/19fb94f4cb4541b9b013e3409458bea8.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/19fb94f4cb4541b9b013e3409458bea8.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/19fb94f4cb4541b9b013e3409458bea8.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f3d9e0c1-7b5a-4e2c-8a9f-1b3c5d7e9f0a",
+        "isDefault": 0,
+        "sort": 230,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 0,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/92e3516ff8624283bc4a873281013144.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "white-glory",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10634,
+        "templateName": "Frost Guard",
+        "templateEnName": "Frost Guard",
+        "templateCnName": "雪境御灵",
+        "categoryCnName": "迪士尼自然背景1",
+        "categoryId": 539,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/215a12275b8b401bad8eca4583e006ca.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/215a12275b8b401bad8eca4583e006ca.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/215a12275b8b401bad8eca4583e006ca.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/215a12275b8b401bad8eca4583e006ca.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "5a7f8c3d-6b2e-4f1a-9d0c-7e84b25a9c3f",
+        "isDefault": 0,
+        "sort": 253,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/3740e9ff0bd047698433e81949a4c497.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "frost-guard",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10635,
+        "templateName": "Aurora Tamer",
+        "templateEnName": "Aurora Tamer",
+        "templateCnName": "极光驭兽",
+        "categoryCnName": "迪士尼自然背景2",
+        "categoryId": 540,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ed87f5ff0cb477d9b5bcafd6741d781.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ed87f5ff0cb477d9b5bcafd6741d781.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ed87f5ff0cb477d9b5bcafd6741d781.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5ed87f5ff0cb477d9b5bcafd6741d781.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+        "isDefault": 0,
+        "sort": 254,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/875c201135aa4d10b594ae05485a91e8.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "aurora-tamer",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10611,
+        "templateName": "Golden Snake",
+        "templateEnName": "Golden Snake",
+        "templateCnName": "金蛇神启",
+        "categoryCnName": "动物走秀-蛇女",
+        "categoryId": 517,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ea8ebd58072645e4b779b4411abab0c3.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ea8ebd58072645e4b779b4411abab0c3.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ea8ebd58072645e4b779b4411abab0c3.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ea8ebd58072645e4b779b4411abab0c3.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "b9e8d7c6-5a4b-4c3d-b2a1-f0e9d8c7b6a5",
+        "isDefault": 0,
+        "sort": 231,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/b4fea6166f0c4a68b35f85f8d92f1dd2.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "golden-snake",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10612,
+        "templateName": "Divine Snake",
+        "templateEnName": "Divine Snake",
+        "templateCnName": "神蛇纪",
+        "categoryCnName": "动物走秀-蛇男",
+        "categoryId": 518,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0be1f2b119854d359f5d2e7c00ea1e54.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0be1f2b119854d359f5d2e7c00ea1e54.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0be1f2b119854d359f5d2e7c00ea1e54.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0be1f2b119854d359f5d2e7c00ea1e54.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c4a1b2d3-e4f5-4a6b-8c7d-9e0f1a2b3c4d",
+        "isDefault": 0,
+        "sort": 232,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/4dc37b36145b4a4fa1a0ce36ece2c455.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "divine-snake",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10630,
+        "templateName": "Frost Crown",
+        "templateEnName": "Frost Crown",
+        "templateCnName": "雪境之冠",
+        "categoryCnName": "迪士尼建筑背景4",
+        "categoryId": 535,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2ffc85aaf30f4c2988444ac4f64a4333.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2ffc85aaf30f4c2988444ac4f64a4333.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2ffc85aaf30f4c2988444ac4f64a4333.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2ffc85aaf30f4c2988444ac4f64a4333.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "7c14bdd0-3a1b-491c-92d8-dd4f879eb0f8",
+        "isDefault": 0,
+        "sort": 249,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/606eb1a8cee247b097e25e14fcd1f39d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "frost-crown",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "message": {
+    "code": 200,
+    "messageInfo": "ok",
+    "serverTime": 1766677275396
+  }
+}

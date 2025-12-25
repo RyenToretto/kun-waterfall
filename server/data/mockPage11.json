@@ -1,0 +1,842 @@
+{
+  "result": {
+    "curPage": 11,
+    "pageSize": 20,
+    "totalSize": 212,
+    "data": [
+      {
+        "id": 10440,
+        "templateName": "Milkyoo",
+        "templateEnName": "Milkyoo",
+        "templateCnName": "奶昔崽",
+        "categoryCnName": "拉布布-米色",
+        "categoryId": 333,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e25f1f73eec8413abaf08a1e960b24a7.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e25f1f73eec8413abaf08a1e960b24a7.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e25f1f73eec8413abaf08a1e960b24a7.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e25f1f73eec8413abaf08a1e960b24a7.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "4d9c6e8f-2a7b-40d1-9853-c61f24a0b78e",
+        "isDefault": 0,
+        "sort": 68,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/17a7d364957144898cfafa0c890b089a.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Milkyoo Video Template – Dreamy Cute Style",
+        "pageSeoDesc": "Add soft, dreamy vibes with Milkyoo in PixPop. Perfect for sweet moments, pastel reels, and aesthetic edits. Try now!",
+        "templateSeoPath": "milkyoo",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10442,
+        "templateName": "Blufo",
+        "templateEnName": "Blufo",
+        "templateCnName": "蓝蓝泡",
+        "categoryCnName": "拉布布-蓝色",
+        "categoryId": 335,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/78340b68a8d044d990d133cd5fca666b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/78340b68a8d044d990d133cd5fca666b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/78340b68a8d044d990d133cd5fca666b.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/78340b68a8d044d990d133cd5fca666b.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "3a6b8c21-5f9d-47e2-a036-9dc4b17f82e5",
+        "isDefault": 0,
+        "sort": 72,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/81e161164b2d4b1c9f6507789f0f66d8.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Blufo Video Template – Cute Alien Vibes",
+        "pageSeoDesc": "Add quirky fun with Blufo in PixPop. Perfect for sci-fi edits, kids’ videos, and playful reels. Try this unique style today!",
+        "templateSeoPath": "blufo",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10448,
+        "templateName": "Ancient Battle",
+        "templateEnName": "Ancient Battle",
+        "templateCnName": "古战场",
+        "categoryCnName": "自拍-三国",
+        "categoryId": 343,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b9573aacfd974c098f0174ae3d619df9.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b9573aacfd974c098f0174ae3d619df9.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b9573aacfd974c098f0174ae3d619df9.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b9573aacfd974c098f0174ae3d619df9.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1914",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f86a2b91-3c57-48e0-95d1-76430fc28db4",
+        "isDefault": 0,
+        "sort": 82,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/a5a8c0b6f351413789ede2e95e353df8.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Ancient Battlefield Video Template – Epic History",
+        "pageSeoDesc": "Relive legendary clashes with Ancient Battlefield in PixPop. Perfect for war stories, cosplay, and cinematic reels. Try it today!",
+        "templateSeoPath": "ancient-battlefield",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10453,
+        "templateName": "Savage Comp.",
+        "templateEnName": "Savage Comp.",
+        "templateCnName": "野人同行",
+        "categoryCnName": "自拍-野人同行",
+        "categoryId": 352,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/fffdfbca749f4c8c899f51cbd178d8f2.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/fffdfbca749f4c8c899f51cbd178d8f2.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/fffdfbca749f4c8c899f51cbd178d8f2.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/fffdfbca749f4c8c899f51cbd178d8f2.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "8f2e7a3b-1c5d-4f9e-8b0a-7d6c5b4a3e2d",
+        "isDefault": 0,
+        "sort": 90,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/0b09fe74dcf94fd18481598ab001c9d6.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Savage Companions Video Template – Wild Duo",
+        "pageSeoDesc": "Add fierce energy with Savage Companions in PixPop. Perfect for action edits and dynamic reels. Try it now!",
+        "templateSeoPath": "savage-companions",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10469,
+        "templateName": "Sunny Nap",
+        "templateEnName": "Sunny Nap",
+        "templateCnName": "蛋黄午睡",
+        "categoryCnName": "小人-煎蛋",
+        "categoryId": 367,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/699e9d0c036849fc97aff5065e11200d.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/699e9d0c036849fc97aff5065e11200d.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/699e9d0c036849fc97aff5065e11200d.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/699e9d0c036849fc97aff5065e11200d.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "ed5e29c1-c3a7-4a31-88c7-1f8dfa3b0d5a",
+        "isDefault": 0,
+        "sort": 96,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/4b02c01b206444bcbeac87a28adc231c.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Sunny Nap Video Template – Warm & Cozy",
+        "pageSeoDesc": "Add peaceful vibes with Sunny Nap in PixPop. Perfect for relaxation reels, lifestyle edits, and soft moments. Try it free!",
+        "templateSeoPath": "sunny-nap",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10470,
+        "templateName": "Fries Chase",
+        "templateEnName": "Fries Chase",
+        "templateCnName": "薯界逃生",
+        "categoryCnName": "小人-薯条暴走",
+        "categoryId": 368,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3ff3aee266824cedb3b55da628d8aca4.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3ff3aee266824cedb3b55da628d8aca4.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3ff3aee266824cedb3b55da628d8aca4.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3ff3aee266824cedb3b55da628d8aca4.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "b0f14a92-762d-412a-9e67-3d6e20c9a48f",
+        "isDefault": 0,
+        "sort": 97,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/98781c772edc4b61bf984376ab4f855e.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Fries Chase Video Template – Playful Snack Story",
+        "pageSeoDesc": "Add quirky fun with Fries Chase in PixPop. Perfect for food comedy, kids’ videos, and lighthearted reels. Try it free!",
+        "templateSeoPath": "fries-chase",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10471,
+        "templateName": "Scoop Sweet",
+        "templateEnName": "Scoop Sweet",
+        "templateCnName": "甜顶开挖",
+        "categoryCnName": "小人-冰激凌",
+        "categoryId": 369,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2d08f7688de44e1c969894a632aaac0a.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2d08f7688de44e1c969894a632aaac0a.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2d08f7688de44e1c969894a632aaac0a.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2d08f7688de44e1c969894a632aaac0a.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f3a4e78b-9c52-4d1a-8e67-2f9a5b3d0c41",
+        "isDefault": 0,
+        "sort": 98,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/456f22bcb5a64b218ae553d01e6b699b.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Scoop the Sweet Video Template – Dessert Fun",
+        "pageSeoDesc": "Add sugary charm with Scoop the Sweet in PixPop. Perfect for baking reels, food promos, and playful edits. Try it free!",
+        "templateSeoPath": "scoop-the-sweet",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10472,
+        "templateName": "Soup Voyage",
+        "templateEnName": "Soup Voyage",
+        "templateCnName": "汤海漂流",
+        "categoryCnName": "小人-划船",
+        "categoryId": 370,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/a98f85f7b9a2450484e8674f57017c41.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/a98f85f7b9a2450484e8674f57017c41.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/a98f85f7b9a2450484e8674f57017c41.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/a98f85f7b9a2450484e8674f57017c41.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a7c91d36-85f0-48e2-b6d3-c25794e08df5",
+        "isDefault": 0,
+        "sort": 99,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/f223f936269c466db267e70a2b9b9614.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Soup Voyage Video Template – Flavorful Fun",
+        "pageSeoDesc": "Take taste buds on a journey with Soup Voyage in PixPop. Perfect for recipe reels, food promos, and creative edits. Try it now!",
+        "templateSeoPath": "soup-voyage",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10477,
+        "templateName": "Butterfly Fairy",
+        "templateEnName": "Butterfly Fairy",
+        "templateCnName": "蝴蝶精灵",
+        "categoryCnName": "精灵风-蝴蝶",
+        "categoryId": 378,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/989f5b5ca8404d76a3da6e7aa45df4fd.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/989f5b5ca8404d76a3da6e7aa45df4fd.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/989f5b5ca8404d76a3da6e7aa45df4fd.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/989f5b5ca8404d76a3da6e7aa45df4fd.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "fb83c461-9d78-4aed-968b-7dc2f14ef903",
+        "isDefault": 0,
+        "sort": 101,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/b82f6e4772f8421c8897722f020ada23.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Butterfly Fairy Video Template – Enchanted Beauty",
+        "pageSeoDesc": "Add magical elegance with Butterfly Fairy in PixPop. Perfect for fantasy edits, cosplay, and dreamy reels. Try it free!",
+        "templateSeoPath": "butterfly-fairy",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10480,
+        "templateName": "Pink Barbie",
+        "templateEnName": "Pink Barbie",
+        "templateCnName": "粉耀芭比",
+        "categoryCnName": "芭比女",
+        "categoryId": 381,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/af0ffe2c211b4cbfad353293e058d538.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/af0ffe2c211b4cbfad353293e058d538.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/af0ffe2c211b4cbfad353293e058d538.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/af0ffe2c211b4cbfad353293e058d538.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a2b47c8e-f63d-4e91-b5a9-d8f3c7d6e09f",
+        "isDefault": 0,
+        "sort": 107,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/493fea234bff48c6971dfc1197e00f2f.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Pink Sparkle Barbie Video Template – Glitter Glam",
+        "pageSeoDesc": "Add dazzling charm with Pink Sparkle Barbie in PixPop. Perfect for fashion edits, unboxings, and glam reels. Try it free!",
+        "templateSeoPath": "pink-sparkle-barbie",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10481,
+        "templateName": "Barbie Muscle",
+        "templateEnName": "Barbie Muscle",
+        "templateCnName": "芭比猛男",
+        "categoryCnName": "芭比男",
+        "categoryId": 382,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1389b088c3f94a088c63c518f59e3325.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1389b088c3f94a088c63c518f59e3325.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1389b088c3f94a088c63c518f59e3325.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1389b088c3f94a088c63c518f59e3325.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "18e5d72c-3f80-47b5-9d62-1c394a680db3",
+        "isDefault": 0,
+        "sort": 108,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/48695b66ab8a4f25b079d241182c1e66.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Barbie Muscle Man Video Template – Fun & Fierce",
+        "pageSeoDesc": "Mix muscle and glamour with Barbie Muscle Man in PixPop. Perfect for playful, bold edits. Try this unique template free today!",
+        "templateSeoPath": "barbie-muscle-man",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10484,
+        "templateName": "Flame Spirit",
+        "templateEnName": "Flame Spirit",
+        "templateCnName": "火精灵",
+        "categoryCnName": "火精灵",
+        "categoryId": 386,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f35193bf6e441bb982049d7c5ef2e9e.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f35193bf6e441bb982049d7c5ef2e9e.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f35193bf6e441bb982049d7c5ef2e9e.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2f35193bf6e441bb982049d7c5ef2e9e.webp?v=5",
+        "videoModel": "",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c4e7b1a2-3e4d-4b8f-9c0a-1b2c3d4e5f6a",
+        "isDefault": 0,
+        "sort": 110,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/fc77e1a16e58407c87b7e794f5c1f499.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Awakening Flame Spirit Video Template – Fiery Power",
+        "pageSeoDesc": "Ignite your edits with The Awakening of the Flame Spirit in PixPop. Perfect for fantasy reels and action scenes. Try it free!",
+        "templateSeoPath": "flame-spirit",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "message": {
+    "code": 200,
+    "messageInfo": "ok",
+    "serverTime": 1766680025209
+  }
+}

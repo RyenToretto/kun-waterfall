@@ -1,0 +1,1372 @@
+{
+  "result": {
+    "curPage": 5,
+    "pageSize": 20,
+    "totalSize": 212,
+    "data": [
+      {
+        "id": 10186,
+        "templateName": "Fried Chicken",
+        "templateEnName": "Fried Chicken",
+        "templateCnName": "疯狂星期四",
+        "categoryCnName": "疯狂星期四",
+        "categoryId": 108,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/35ceab3d79fc43149fc7f624154dacf8.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/35ceab3d79fc43149fc7f624154dacf8.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/35ceab3d79fc43149fc7f624154dacf8.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/35ceab3d79fc43149fc7f624154dacf8.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 26,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/1c056f6b9d3242319805c9a84aa456f1.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Fried Chicken Video Template – Fun & Tasty",
+        "pageSeoDesc": "Make your clips irresistible with Eat Delicious Fried Chicken in PixPop. Add fun foodie vibes to your edits. Try this tasty template today!",
+        "templateSeoPath": "eat-delicious-fried-chicken",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10235,
+        "templateName": "Explosion",
+        "templateEnName": "Explosion",
+        "templateCnName": "爆炸",
+        "categoryCnName": "爆炸",
+        "categoryId": 145,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e823d711869c434da8096a3cc890e569.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e823d711869c434da8096a3cc890e569.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e823d711869c434da8096a3cc890e569.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e823d711869c434da8096a3cc890e569.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 14,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/017416571aed4f4db4e929a8eeda43e8.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Explosion Video Template – Epic & Thrilling",
+        "pageSeoDesc": "Bring action to life with Explosion in PixPop. Add cinematic energy and bold effects to your edits. Try this epic template today!",
+        "templateSeoPath": "explosion",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10002,
+        "templateName": "Thanks Flowers",
+        "templateEnName": "Thanks Flowers",
+        "templateCnName": "谢谢花",
+        "categoryCnName": "谢谢你的花",
+        "categoryId": 8,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 600,
+        "width": 400,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3b039ada53ac4af088b26a773ff33a35.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3b039ada53ac4af088b26a773ff33a35.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3b039ada53ac4af088b26a773ff33a35.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/3b039ada53ac4af088b26a773ff33a35.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "3.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 12,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/1376cb7e6a8145e0bd3c0fd4462824cd.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Thank You Flowers Video Template – Sweet & Heartfelt",
+        "pageSeoDesc": "Express gratitude with Thank You for Your Flowers in PixPop. Create touching and warm edits easily. Try this heartfelt template today!",
+        "templateSeoPath": "thank-you-for-your-flowers",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "3s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10189,
+        "templateName": "Vivid",
+        "templateEnName": "Vivid",
+        "templateCnName": "活灵活现",
+        "categoryCnName": "图片动起来",
+        "categoryId": 111,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/941b1db304624191848ebb4ff2221528.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/941b1db304624191848ebb4ff2221528.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/941b1db304624191848ebb4ff2221528.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/941b1db304624191848ebb4ff2221528.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 5,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/13473511de9447d499d4e3d5d8bdd176.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Vivid Video Template – Bright & Creative",
+        "pageSeoDesc": "Add vibrant color and energy with Vivid in PixPop. Perfect for bold, eye-catching edits. Try this creative template today!",
+        "templateSeoPath": "vivid",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character illustration",
+            "desc": "Please upload the cover or inner page images of the book/magazine, which must include people.",
+            "width": 720,
+            "height": 1280,
+            "limit": []
+          }
+        ]
+      },
+      {
+        "id": 10156,
+        "templateName": "Blackbody",
+        "templateEnName": "Blackbody",
+        "templateCnName": "炽热曲线",
+        "categoryCnName": "比基尼美女",
+        "categoryId": 42,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8ec249daf30e4c3093793d88a8bcafd7.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8ec249daf30e4c3093793d88a8bcafd7.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/989030e53bef423097060028a92b9950.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/989030e53bef423097060028a92b9950.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 4,
+        "isCollect": false,
+        "priceGear": 2,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/61a8198b017147b398a41ab4eb7689aa.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Blackbody Curve Video Template – Bold & Stylish",
+        "pageSeoDesc": "Add sleek style with Blackbody Curve in PixPop. Perfect for creative, fashion-inspired edits. Try this unique template free today!",
+        "templateSeoPath": "blackbody-curve",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body front photo of the person.",
+            "guideX": 368,
+            "guideY": 274,
+            "guideScale": 48,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10155,
+        "templateName": "Bikini Beauty",
+        "templateEnName": "Bikini Beauty",
+        "templateCnName": "比基尼美女",
+        "categoryCnName": "比基尼美女",
+        "categoryId": 42,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/38c5af063d054c32956c87bedbe057cd.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/38c5af063d054c32956c87bedbe057cd.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/cfc06baff7cc4afb9290413be7c5d246.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/cfc06baff7cc4afb9290413be7c5d246.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 1,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/eee32762fdbb4396ac81a9e37d7b17fb.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Bikini Beauty Video Template – Glamorous & Fun",
+        "pageSeoDesc": "Shine with Bikini Beauty in PixPop. Add summer style and beach vibes to your edits. Try this glamorous template today!",
+        "templateSeoPath": "bikini-beauty",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body front photo of the person.",
+            "guideX": 368,
+            "guideY": 274,
+            "guideScale": 48,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10135,
+        "templateName": "Wolf Totem",
+        "templateEnName": "Wolf Totem",
+        "templateCnName": "狼图腾",
+        "categoryCnName": "狼图腾",
+        "categoryId": 59,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f8063e19e8214eb69f2cab9c8c3bb78b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f8063e19e8214eb69f2cab9c8c3bb78b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/992aebec488a4804a9b6e4adaec7f71c.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/992aebec488a4804a9b6e4adaec7f71c.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 3,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/63f784ca72254747976f6cfc68d67259.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Wolf Totem Video Template – Wild & Powerful",
+        "pageSeoDesc": "Add strength and wilderness with Wolf Totem in PixPop. Create bold, tribal-inspired edits. Try this epic template today!",
+        "templateSeoPath": "wolf-totem",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10023,
+        "templateName": "Snowing",
+        "templateEnName": "Snowing",
+        "templateCnName": "下雪",
+        "categoryCnName": "下雪",
+        "categoryId": 19,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56a606dc5840487c904d17a97f6383c9.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56a606dc5840487c904d17a97f6383c9.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56a606dc5840487c904d17a97f6383c9.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56a606dc5840487c904d17a97f6383c9.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "2.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 34,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/bbcbf8fd0a12461f805bbd428ef854b9.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Snowing Video Template – Magical & Cozy",
+        "pageSeoDesc": "Add winter charm with Snowing in PixPop. Create magical, heartwarming edits with ease. Try this seasonal template today!",
+        "templateSeoPath": "snowing",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "2s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10142,
+        "templateName": "Bubble Kiss",
+        "templateEnName": "Bubble Kiss",
+        "templateCnName": "泡泡吻",
+        "categoryCnName": "泡泡吻",
+        "categoryId": 65,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ee6b992f28154be68c1c9c991d8203d9.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ee6b992f28154be68c1c9c991d8203d9.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ee6b992f28154be68c1c9c991d8203d9.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ee6b992f28154be68c1c9c991d8203d9.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "2160 x 3840",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 19,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/a365b83e2e5c49eaaf395136732cdfc9.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Bubble Kiss Video Template – Sweet & Playful",
+        "pageSeoDesc": "Add romance with Bubble Kiss in PixPop. Perfect for fun, charming edits with bubbly flair. Try this sweet template today!",
+        "templateSeoPath": "bubble-kiss",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Photo of two people",
+            "desc": "Please upload a clear front-facing photo of two people.",
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10180,
+        "templateName": "Tiger Hug",
+        "templateEnName": "Tiger Hug",
+        "templateCnName": "猛虎拥抱",
+        "categoryCnName": "猛虎拥抱",
+        "categoryId": 103,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bcdbd9d0a59f4b2c8fa71957284c136d.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/bcdbd9d0a59f4b2c8fa71957284c136d.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/a0159ae634a94e60aa441e458e8ed804.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/a0159ae634a94e60aa441e458e8ed804.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 1,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/548afbad4f72478fa708c73710260575.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Tiger Hug Video Template – Cute & Wild",
+        "pageSeoDesc": "Show affection with Tiger Hug in PixPop. Add wild yet heartwarming effects to your videos. Try this fun template today!",
+        "templateSeoPath": "tiger-hug",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10003,
+        "templateName": "Flower Mail",
+        "templateEnName": "Flower Mail",
+        "templateCnName": "送花",
+        "categoryCnName": "送花",
+        "categoryId": 6,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7969a1562f5747c7b33918971909fc5a.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7969a1562f5747c7b33918971909fc5a.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7969a1562f5747c7b33918971909fc5a.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7969a1562f5747c7b33918971909fc5a.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 29,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ba002c6717294272bd3e01bd57e1513e.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Send Flowers Video Template – Sweet & Romantic",
+        "pageSeoDesc": "Express love with Send Flowers in PixPop. Add heartfelt touches and beauty to your edits. Try this romantic template today!",
+        "templateSeoPath": "send-flowers",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10001,
+        "templateName": "Werewolf",
+        "templateEnName": "Werewolf",
+        "templateCnName": "狼人",
+        "categoryCnName": "狼人",
+        "categoryId": 4,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c3445e1d25c74a67a7b43bca1c8c2d76.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c3445e1d25c74a67a7b43bca1c8c2d76.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c3445e1d25c74a67a7b43bca1c8c2d76.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c3445e1d25c74a67a7b43bca1c8c2d76.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "3.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 18,
+        "isCollect": false,
+        "priceGear": 1,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/17cd220fd5c34c229c0657ad0827d6a9.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Werewolf Video Template – Dark & Powerful",
+        "pageSeoDesc": "Add thrilling energy with Werewolf in PixPop. Perfect for cinematic, bold, and edgy edits. Try this epic template today!",
+        "templateSeoPath": "werewolf",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "3s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "templateName": "Muscle Manif.",
+        "templateEnName": "Muscle Manif.",
+        "templateCnName": "肌肉秀",
+        "categoryCnName": "展示肌肉",
+        "categoryId": 5,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/876f8085acc94920a043c2087da8218d.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/876f8085acc94920a043c2087da8218d.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/876f8085acc94920a043c2087da8218d.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/876f8085acc94920a043c2087da8218d.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 1,
+        "sort": 11,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/dfa70a21d8d742cb9cc400227a40498a.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Muscle Manifest Video Template – Strong & Bold",
+        "pageSeoDesc": "Show your strength with Muscle Manifest in PixPop. Add confident, powerful effects to your edits. Try this bold template today!",
+        "templateSeoPath": "muscle-manifest",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10424,
+        "templateName": "Drink",
+        "templateEnName": "Drink",
+        "templateCnName": "饮料",
+        "categoryCnName": "饮料",
+        "categoryId": 317,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9997deaa22d04180a20e119f8744b51a.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9997deaa22d04180a20e119f8744b51a.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9997deaa22d04180a20e119f8744b51a.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9997deaa22d04180a20e119f8744b51a.webp?v=5",
+        "videoModel": "kling-v2-1",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 4,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 54,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/b13dd04d55f04f61997b692c865649a0.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Drink Video Template – Fun & Refreshing",
+        "pageSeoDesc": "Add casual fun with Drink in PixPop. Perfect for lifestyle and cheerful edits. Try this refreshing template today!",
+        "templateSeoPath": "drink",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Food",
+            "desc": "Please upload a clear picture of the food.",
+            "width": 720,
+            "height": 1280,
+            "limit": []
+          }
+        ]
+      },
+      {
+        "id": 10240,
+        "templateName": "Steel Body",
+        "templateEnName": "Steel Body",
+        "templateCnName": "钢铁之躯",
+        "categoryCnName": "钢铁侠变身",
+        "categoryId": 150,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/057b0a763c3646c5bcc87bf296e28946.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/057b0a763c3646c5bcc87bf296e28946.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/057b0a763c3646c5bcc87bf296e28946.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/057b0a763c3646c5bcc87bf296e28946.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 5,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/422f95d17cc546dda7cbd35f0f54058d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Steel Body Video Template – Strong & Futuristic",
+        "pageSeoDesc": "Transform into steel with Steel Body in PixPop. Add sci-fi power and bold effects to your videos. Try this futuristic template today!",
+        "templateSeoPath": "steel-body",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10119,
+        "templateName": "Firework Kiss",
+        "templateEnName": "Firework Kiss",
+        "templateCnName": "烟花璀璨",
+        "categoryCnName": "烟花璀璨",
+        "categoryId": 47,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08c909154f6041ebb74801b94e3e6d2c.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08c909154f6041ebb74801b94e3e6d2c.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08c909154f6041ebb74801b94e3e6d2c.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08c909154f6041ebb74801b94e3e6d2c.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "2160 x 3840",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 4,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/51a677f6465c44398a9b88d0201d88cf.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Fireworks Kiss Video Template – Romantic & Epic",
+        "pageSeoDesc": "Add cinematic romance with Fireworks Kiss in PixPop. Perfect for stunning, emotional edits. Try this epic template today!",
+        "templateSeoPath": "fireworks-kiss",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Photo of two people",
+            "desc": "Please upload a clear front-facing photo of two people.",
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "templateName": "Money Rush",
+        "templateEnName": "Money Rush",
+        "templateCnName": "金钱多多",
+        "categoryCnName": "金钱多多",
+        "categoryId": 2,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e682639915fa4105a35e7ec7286d31fd.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e682639915fa4105a35e7ec7286d31fd.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e682639915fa4105a35e7ec7286d31fd.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e682639915fa4105a35e7ec7286d31fd.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 1,
+        "sort": 5,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/8c84d3f0f9484c498ba7c68c20fa8962.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Money Rain Video Template – Fun & Prosperous",
+        "pageSeoDesc": "Make it rain with Money Rain in PixPop. Add fun, wealth-inspired vibes to your edits. Try this bold template today!",
+        "templateSeoPath": "money-rain",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10209,
+        "templateName": "White Bikini",
+        "templateEnName": "White Bikini",
+        "templateCnName": "白色比基尼",
+        "categoryCnName": "白色比基尼",
+        "categoryId": 131,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6374f4a9eaa141e08bfddc34e274bb8f.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6374f4a9eaa141e08bfddc34e274bb8f.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/f2257c87aa82460d9e5a8f25cb37f622.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/f2257c87aa82460d9e5a8f25cb37f622.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 3,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/8f0e4d03cd95476f8c542078f97afaf4.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "White Bikini Video Template – Elegant & Stylish",
+        "pageSeoDesc": "Shine with White Bikini in PixPop. Perfect for glamorous summer edits. Try this stylish template today!",
+        "templateSeoPath": "white-bikini",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body front photo of the person.",
+            "guideX": 368,
+            "guideY": 274,
+            "guideScale": 48,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10219,
+        "templateName": "Elephant Doll",
+        "templateEnName": "Elephant Doll",
+        "templateCnName": "小象玩偶",
+        "categoryCnName": "小象玩偶",
+        "categoryId": 138,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9fca2b1b99d1408c98e3e5642417e310.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9fca2b1b99d1408c98e3e5642417e310.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9fca2b1b99d1408c98e3e5642417e310.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9fca2b1b99d1408c98e3e5642417e310.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 13,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/342a1cf733a94c3a9e0908184b469fe9.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Little Elephant Doll Video Template – Cute & Fun",
+        "pageSeoDesc": "Add playful charm with Little Elephant Doll in PixPop. Perfect for adorable and lighthearted edits. Try this template today!",
+        "templateSeoPath": "little-elephant-doll",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10230,
+        "templateName": "Giant Leopard",
+        "templateEnName": "Giant Leopard",
+        "templateCnName": "巨型豹子",
+        "categoryCnName": "巨型动物-豹子",
+        "categoryId": 140,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.57,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f5f062866446443cb1d3651b183c8efe.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f5f062866446443cb1d3651b183c8efe.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f5f062866446443cb1d3651b183c8efe.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f5f062866446443cb1d3651b183c8efe.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 1264",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 19,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/e984a5052d314c629c50a46cc98753ea.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Giant Leopard Video Template – Epic & Wild",
+        "pageSeoDesc": "Add wild cinematic flair with Giant Animal Leopard in PixPop. Create bold, adventurous edits. Try this epic template today!",
+        "templateSeoPath": "giant-leopard",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "message": {
+    "code": 200,
+    "messageInfo": "ok",
+    "serverTime": 1766679945999
+  }
+}

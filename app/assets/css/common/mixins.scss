@@ -35,11 +35,19 @@ $tablet: 1024px;
       height: $sh;
     }
     &::-webkit-scrollbar-track-piece {
-      border: if($sw >= 8px or $sh >= 8px, 2px solid $trackColor, 1px solid $trackColor);
+      @if $sw >= 8px or $sh >= 8px {
+        border: 2px solid $trackColor;
+      } @else {
+        border: 1px solid $trackColor;
+      }
       background: $trackColor;
     }
     &::-webkit-scrollbar-thumb {
-      border: if($sw >= 8px or $sh >= 8px, 2px solid $trackColor, 1px solid $trackColor);
+      @if $sw >= 8px or $sh >= 8px {
+        border: 2px solid $trackColor;
+      } @else {
+        border: 1px solid $trackColor;
+      }
       border-radius: 6px;
       background-color: $thumbColor;
       &:hover {
@@ -164,7 +172,11 @@ $tablet: 1024px;
 
   // 移动端：如果提供了移动端值则使用，否则使用PC端值
   @include mobile() {
-    #{$property}: #{if($mobile-value, $mobile-value, $pc-value)}px;
+    @if $mobile-value {
+      #{$property}: #{$mobile-value}px;
+    } @else {
+      #{$property}: #{$pc-value}px;
+    }
   }
 }
 

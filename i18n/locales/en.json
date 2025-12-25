@@ -1,0 +1,39 @@
+{
+  "common": {
+    "title": "Kun Waterfall",
+    "loading": "Loading...",
+    "loadMore": "Load More",
+    "noMore": "No more content",
+    "error": "Error occurred",
+    "retry": "Retry"
+  },
+  "header": {
+    "title": "Video Gallery"
+  },
+  "footer": {
+    "copyright": "© 2025 Kun Waterfall. All rights reserved.",
+    "disclaimer": "This website is for demonstration purposes only. All video content is sourced from third-party platforms.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us"
+  },
+  "video": {
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "collect": "Add to favorites",
+    "collected": "Added to favorites"
+  },
+  "success": {
+    "copiedToClipboard": "Copied to clipboard",
+    "downloadStarted": "Download started"
+  },
+  "error": {
+    "failedToCopy": "Failed to copy",
+    "downloadFailed": "Download failed",
+    "noVideoUrl": "Video URL not available",
+    "loadFailed": "Failed to load content"
+  }
+}
+

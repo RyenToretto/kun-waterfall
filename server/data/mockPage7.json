@@ -1,0 +1,1394 @@
+{
+  "result": {
+    "curPage": 7,
+    "pageSize": 20,
+    "totalSize": 212,
+    "data": [
+      {
+        "id": 10199,
+        "templateName": "Hugging Lion",
+        "templateEnName": "Hugging Lion",
+        "templateCnName": "拥抱狮子",
+        "categoryCnName": "狮子拥抱",
+        "categoryId": 121,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f622237454274891a2313d6c67cd38f5.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f622237454274891a2313d6c67cd38f5.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/5208a0b69aff4cf8a90d22d15e5d4ad3.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/5208a0b69aff4cf8a90d22d15e5d4ad3.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 2,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/aadb317ac6c54529989d24168a13221e.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Hugging a Lion Video Template – Bold & Heartwarming",
+        "pageSeoDesc": "Embrace wild charm with Hugging a Lion in PixPop. Add epic, emotional vibes to your edits. Try this bold template today!",
+        "templateSeoPath": "hugging-a-lion",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10232,
+        "templateName": "Giant Lion",
+        "templateEnName": "Giant Lion",
+        "templateCnName": "巨型狮子",
+        "categoryCnName": "巨型动物-狮子",
+        "categoryId": 141,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f632dfa4f7af49d79a407e525d77c5c4.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f632dfa4f7af49d79a407e525d77c5c4.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f632dfa4f7af49d79a407e525d77c5c4.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f632dfa4f7af49d79a407e525d77c5c4.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 22,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/393ac1eff3af42779afec9e5a228f981.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Giant Lion Video Template – Wild & Epic",
+        "pageSeoDesc": "Add adventure with Giant Animal Lion in PixPop. Perfect for cinematic, bold edits. Try this epic template today!",
+        "templateSeoPath": "giant-lion",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "templateName": "Hi There",
+        "templateEnName": "Hi There",
+        "templateCnName": "你好",
+        "categoryCnName": "打招呼",
+        "categoryId": 1,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/709e7e1e9f3c416db4479407e55e9f9b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/709e7e1e9f3c416db4479407e55e9f9b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/709e7e1e9f3c416db4479407e55e9f9b.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/709e7e1e9f3c416db4479407e55e9f9b.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 1280",
+        "videoLength": "3.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 1,
+        "sort": 33,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/8c83bd01e21d412abba045d150416f1d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Hello Video Template – Fun & Friendly",
+        "pageSeoDesc": "Greet your audience with Hello in PixPop. Add cheerful and friendly vibes to your edits. Try this fun template today!",
+        "templateSeoPath": "hello",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "3s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10137,
+        "templateName": "Skeleton Web",
+        "templateEnName": "Skeleton Web",
+        "templateCnName": "蛛网骷髅",
+        "categoryCnName": "蛛网骷髅",
+        "categoryId": 60,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f92edd0b58734a269b3ff9c8f0ddbc7e.png",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f92edd0b58734a269b3ff9c8f0ddbc7e.png?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/58cb604299c24660ac6db258c2e7da73.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/58cb604299c24660ac6db258c2e7da73.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "600 x 800",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 7,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/27802f29bd6f46f08c25c78f0ca56734.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Spider Web Skeleton Video Template – Creepy & Bold",
+        "pageSeoDesc": "Add eerie effects with Spider Web Skeleton in PixPop. Perfect for spooky and bold edits. Try this thrilling template today!",
+        "templateSeoPath": "spider-web-skeleton",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10195,
+        "templateName": "Dino Selfie",
+        "templateEnName": "Dino Selfie",
+        "templateCnName": "恐龙自拍",
+        "categoryCnName": "恐龙自拍",
+        "categoryId": 117,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/abaa437c66cf4346bf369526986d219b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/abaa437c66cf4346bf369526986d219b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/66a97955859a4340aad632189066f8bd.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/66a97955859a4340aad632189066f8bd.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 2,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/8b5a883539d0443f9011fb838c538d25.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Dinosaur Selfie Video Template – Fun & Epic",
+        "pageSeoDesc": "Capture wild adventures with Selfie with a Dinosaur in PixPop. Add playful and epic vibes to your edits. Try this bold template today!",
+        "templateSeoPath": "selfie-with-a-dinosaur",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10220,
+        "templateName": "White Latex",
+        "templateEnName": "White Latex",
+        "templateCnName": "白色乳胶衣",
+        "categoryCnName": "白色乳胶衣",
+        "categoryId": 139,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b3e9e8adc8a448f69d61d6876df303fa.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b3e9e8adc8a448f69d61d6876df303fa.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/8cb7a43317224ef5b34cba41dda6bb45.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/8cb7a43317224ef5b34cba41dda6bb45.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 7,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/2801694d5a08445aa713da2d8440ade5.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "White Latex Clothing Video Template – Stylish & Bold",
+        "pageSeoDesc": "Add sleek fashion with White Latex Clothing in PixPop. Perfect for edgy and creative edits. Try this stylish template today!",
+        "templateSeoPath": "white-latex-clothing",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body front photo of the person.",
+            "guideX": 368,
+            "guideY": 274,
+            "guideScale": 48,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10113,
+        "templateName": "Lion Baby",
+        "templateEnName": "Lion Baby",
+        "templateCnName": "狮子宝贝",
+        "categoryCnName": "狮子宝贝",
+        "categoryId": 41,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cd01b88e5eaa4f3eb696d03f2a0b0856.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cd01b88e5eaa4f3eb696d03f2a0b0856.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cd01b88e5eaa4f3eb696d03f2a0b0856.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cd01b88e5eaa4f3eb696d03f2a0b0856.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 5,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/3d5950a9f5a94c188b8ed85c23069e34.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Lion Baby Video Template – Cute & Fierce",
+        "pageSeoDesc": "Mix cuteness and power with Lion Baby in PixPop. Add fun wild charm to your edits. Try this adorable template today!",
+        "templateSeoPath": "lion-baby",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10231,
+        "templateName": "Giant Wolf",
+        "templateEnName": "Giant Wolf",
+        "templateCnName": "巨型狼",
+        "categoryCnName": "巨型动物-狼",
+        "categoryId": 142,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/63a09087e4f8411e9daf797fd6dcbd15.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/63a09087e4f8411e9daf797fd6dcbd15.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/63a09087e4f8411e9daf797fd6dcbd15.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/63a09087e4f8411e9daf797fd6dcbd15.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 28,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/cd703172cae143789bdf0bb6d68e5568.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Giant Wolf Video Template – Bold & Wild",
+        "pageSeoDesc": "Add thrilling adventure with Giant Animal Wolf in PixPop. Create cinematic, powerful edits. Try this epic template today!",
+        "templateSeoPath": "giant-wolf",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10202,
+        "templateName": "Lion Plush",
+        "templateEnName": "Lion Plush",
+        "templateCnName": "狮子玩偶",
+        "categoryCnName": "狮子玩偶",
+        "categoryId": 123,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ca90265c72a942b68d6ea0013bf90a4a.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/ca90265c72a942b68d6ea0013bf90a4a.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/2115fe8c492d4ef893f1cf63c595fca5.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/2115fe8c492d4ef893f1cf63c595fca5.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 10,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/2aab8f83b34343adaa10b27efb9d1fd1.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Lion Plush Toy Video Template – Cute & Fun",
+        "pageSeoDesc": "Add playful charm with Lion Plush Toy in PixPop. Perfect for lighthearted and adorable edits. Try this fun template today!",
+        "templateSeoPath": "lion-plush-toy",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10127,
+        "templateName": "Anchor & Rose",
+        "templateEnName": "Anchor & Rose",
+        "templateCnName": "船锚玫瑰",
+        "categoryCnName": "复古船锚与玫瑰",
+        "categoryId": 56,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/191b5de5b4b844918f99c17a96c68a91.png",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/191b5de5b4b844918f99c17a96c68a91.png?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/fa0e27d2012c4a38947a549e629143d8.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/fa0e27d2012c4a38947a549e629143d8.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "600 x 800",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 9,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ef32ab4f7cda4d5cb54c92d160dd144d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Vintage Anchor & Rose Video Template – Classic & Artistic",
+        "pageSeoDesc": "Add vintage elegance with Ship Anchor and Rose in PixPop. Create stylish and timeless edits. Try this artistic template today!",
+        "templateSeoPath": "vintage-ship-anchor-and-rose",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10161,
+        "templateName": "Out Of Frame",
+        "templateEnName": "Out Of Frame",
+        "templateCnName": "走出相框",
+        "categoryCnName": "走出相框",
+        "categoryId": 82,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5759ce3ca2a447709360a9d6feb505ca.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5759ce3ca2a447709360a9d6feb505ca.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5759ce3ca2a447709360a9d6feb505ca.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/5759ce3ca2a447709360a9d6feb505ca.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 3,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/78737fa0db6f466c8da31c3b5914029f.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Step Out of the Frame Video Template – Creative & Fun",
+        "pageSeoDesc": "Break boundaries with Step Out of the Frame in PixPop. Add dynamic and eye-catching 3D effects. Try this creative template today!",
+        "templateSeoPath": "step-out-of-the-frame",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10000,
+        "templateName": "Coin Rush",
+        "templateEnName": "Coin Rush",
+        "templateCnName": "金币雨",
+        "categoryCnName": "金币雨",
+        "categoryId": 7,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cf4bb782c27a4124bcd40b169221a15a.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cf4bb782c27a4124bcd40b169221a15a.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cf4bb782c27a4124bcd40b169221a15a.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cf4bb782c27a4124bcd40b169221a15a.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "3.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 4,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/caeea03c41ce4c3d990b6ddde4a9db4a.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Rain of Coins Video Template – Fun & Prosperous",
+        "pageSeoDesc": "Shower your edits with Rain of Coins in PixPop. Add wealth and playful vibes instantly. Try this fun template today!",
+        "templateSeoPath": "rain-of-coins",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "3s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10204,
+        "templateName": "Hug Samoyed",
+        "templateEnName": "Hug Samoyed",
+        "templateCnName": "拥抱萨摩耶",
+        "categoryCnName": "拥抱萨摩耶",
+        "categoryId": 126,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0e4736d0444e409b9d8673527bf6f29d.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/0e4736d0444e409b9d8673527bf6f29d.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/1ddcb9019eec46c2aaa9fe7863bd1f79.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/1ddcb9019eec46c2aaa9fe7863bd1f79.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 6,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/8fd36e99331d4e309b3d8ec06fd00ddc.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Embrace Samoyed Video Template – Cute & Warm",
+        "pageSeoDesc": "Hug your furry friend with Embrace Samoyed in PixPop. Add adorable, heartwarming effects to your edits. Try this sweet template today!",
+        "templateSeoPath": "embrace-samoyed",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10233,
+        "templateName": "Giant Horse",
+        "templateEnName": "Giant Horse",
+        "templateCnName": "巨型白马",
+        "categoryCnName": "巨型动物-白马",
+        "categoryId": 143,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1227864cdb4d4136b20acb8f96951b66.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1227864cdb4d4136b20acb8f96951b66.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1227864cdb4d4136b20acb8f96951b66.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1227864cdb4d4136b20acb8f96951b66.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 2,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/cc8207112d66417c80aea45a52252e99.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Giant White Horse Video Template – Elegant & Epic",
+        "pageSeoDesc": "Add cinematic charm with Giant Animal White Horse in PixPop. Perfect for bold and graceful edits. Try this epic template today!",
+        "templateSeoPath": "giant-animal-white-horse",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10205,
+        "templateName": "Puppy Doll",
+        "templateEnName": "Puppy Doll",
+        "templateCnName": "小狗玩偶",
+        "categoryCnName": "小狗玩偶",
+        "categoryId": 127,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1860bd7549be4070a8684e13bb922433.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/1860bd7549be4070a8684e13bb922433.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/2a61efbeff824b54b89eee5969364c6a.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/2a61efbeff824b54b89eee5969364c6a.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 12,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/3fce573db5b24c38a353d9b7b0c8d43c.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Puppy Doll Video Template – Cute & Fun",
+        "pageSeoDesc": "Add playful vibes with Puppy Doll in PixPop. Perfect for lighthearted and adorable edits. Try this fun template today!",
+        "templateSeoPath": "puppy-doll",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10190,
+        "templateName": "Angel Wings",
+        "templateEnName": "Angel Wings",
+        "templateCnName": "天使之翼",
+        "categoryCnName": "天使翅膀",
+        "categoryId": 112,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/15ce8c55ed1d44cba12d0b5ea9be6d79.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/15ce8c55ed1d44cba12d0b5ea9be6d79.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/15ce8c55ed1d44cba12d0b5ea9be6d79.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/15ce8c55ed1d44cba12d0b5ea9be6d79.webp?v=5",
+        "videoModel": "I2V-01-Director",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 3,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/327c18ee917c4de9a70069c64b5692ab.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Wings of an Angel Video Template – Pure & Magical",
+        "pageSeoDesc": "Add ethereal beauty with Wings of an Angel in PixPop. Create peaceful, heavenly edits. Try this magical template today!",
+        "templateSeoPath": "wings-of-an-angel",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10116,
+        "templateName": "Koala Baby",
+        "templateEnName": "Koala Baby",
+        "templateCnName": "考拉宝贝",
+        "categoryCnName": "考拉宝贝",
+        "categoryId": 44,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/86da3fc09f10422fa6e05450a0610156.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/86da3fc09f10422fa6e05450a0610156.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/86da3fc09f10422fa6e05450a0610156.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/86da3fc09f10422fa6e05450a0610156.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 4,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ec9fba251f404c94be570f7c1a6fd6fb.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Koala Baby Video Template – Cute & Adorable",
+        "pageSeoDesc": "Add heartwarming charm with Koala Baby in PixPop. Perfect for sweet and playful edits. Try this adorable template today!",
+        "templateSeoPath": "koala-baby",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10128,
+        "templateName": "Cross",
+        "templateEnName": "Cross",
+        "templateCnName": "十字架",
+        "categoryCnName": "十字架",
+        "categoryId": 57,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.75,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08d9bbed779c47e8bf2617a7eae00642.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/08d9bbed779c47e8bf2617a7eae00642.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/75148017d0184d4cb6568fded7618568.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template_v2/75148017d0184d4cb6568fded7618568.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "720 x 960",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 5,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/11b94b58b97b4f0e9ef9679eb86dc8e1.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Cross Video Template – Spiritual & Strong",
+        "pageSeoDesc": "Add faith-inspired vibes with Cross in PixPop. Create meaningful and powerful edits easily. Try this spiritual template today!",
+        "templateSeoPath": "cross",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10118,
+        "templateName": "Penguin Baby",
+        "templateEnName": "Penguin Baby",
+        "templateCnName": "企鹅宝贝",
+        "categoryCnName": "企鹅宝贝",
+        "categoryId": 46,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 800,
+        "width": 600,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48a9dead28194dfab4176b434b3b3df6.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48a9dead28194dfab4176b434b3b3df6.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48a9dead28194dfab4176b434b3b3df6.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48a9dead28194dfab4176b434b3b3df6.webp?v=5",
+        "videoModel": "I2V-01",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 3,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/1031ded921a2418d9aff83b1a2a7266d.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Penguin Baby Video Template – Cute & Fun",
+        "pageSeoDesc": "Add icy charm with Penguin Baby in PixPop. Perfect for adorable and playful edits. Try this fun template today!",
+        "templateSeoPath": "penguin-baby",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear frontal photo of yourself.",
+            "guideX": 360,
+            "guideY": 456,
+            "guideScale": 94,
+            "width": 720,
+            "height": 960,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10319,
+        "templateName": "Giant Gorilla",
+        "templateEnName": "Giant Gorilla",
+        "templateCnName": "巨型猩猩",
+        "categoryCnName": "巨型动物-大猩猩",
+        "categoryId": 213,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/755d20cd64c440ce95bc2c2cceaaff18.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/755d20cd64c440ce95bc2c2cceaaff18.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/755d20cd64c440ce95bc2c2cceaaff18.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/755d20cd64c440ce95bc2c2cceaaff18.webp?v=5",
+        "videoModel": "I2V-01-live",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 1,
+        "mergeImage": 1,
+        "thirdId": "",
+        "isDefault": 0,
+        "sort": 16,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/11b11536f88646f9a7b10e3a657c18da.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Giant Gorilla Video Template – Wild & Powerful",
+        "pageSeoDesc": "Add bold wilderness with Giant Animals Gorillas in PixPop. Perfect for cinematic, thrilling edits. Try this epic template today!",
+        "templateSeoPath": "giant-gorilla",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "message": {
+    "code": 200,
+    "messageInfo": "ok",
+    "serverTime": 1766679977211
+  }
+}

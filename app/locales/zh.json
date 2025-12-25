@@ -1,0 +1,39 @@
+{
+  "common": {
+    "title": "鲲瀑布流",
+    "loading": "加载中...",
+    "loadMore": "加载更多",
+    "noMore": "没有更多内容了",
+    "error": "发生错误",
+    "retry": "重试"
+  },
+  "header": {
+    "title": "视频画廊"
+  },
+  "footer": {
+    "copyright": "© 2025 鲲瀑布流。保留所有权利。",
+    "disclaimer": "本网站仅供演示用途。所有视频内容均来自第三方平台。",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "contact": "联系我们"
+  },
+  "video": {
+    "play": "播放",
+    "pause": "暂停",
+    "mute": "静音",
+    "unmute": "取消静音",
+    "collect": "收藏",
+    "collected": "已收藏"
+  },
+  "success": {
+    "copiedToClipboard": "已复制到剪贴板",
+    "downloadStarted": "下载已开始"
+  },
+  "error": {
+    "failedToCopy": "复制失败",
+    "downloadFailed": "下载失败",
+    "noVideoUrl": "视频链接不可用",
+    "loadFailed": "加载内容失败"
+  }
+}
+

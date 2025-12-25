@@ -1,0 +1,1402 @@
+{
+  "result": {
+    "curPage": 2,
+    "pageSize": 20,
+    "totalSize": 212,
+    "data": [
+      {
+        "id": 10680,
+        "templateName": "Curves Stirred",
+        "templateEnName": "Curves Stirred",
+        "templateCnName": "曲线微动",
+        "categoryCnName": "激情37-web",
+        "categoryId": 585,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4e43cfa3687742078d91dd2897265132.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4e43cfa3687742078d91dd2897265132.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4e43cfa3687742078d91dd2897265132.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4e43cfa3687742078d91dd2897265132.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "95e7a3b6-0d18-4f72-b9c3-54d1e2a87f60",
+        "isDefault": 0,
+        "sort": 278,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/615458d235be4793ac5c0d0fc6863b87.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "curves-stirred",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10681,
+        "templateName": "Bust Surge",
+        "templateEnName": "Bust Surge",
+        "templateCnName": "胸部激增",
+        "categoryCnName": "激情36-web",
+        "categoryId": 586,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/45e48dcefb624f12bcda3cc87c0d5e27.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/45e48dcefb624f12bcda3cc87c0d5e27.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/45e48dcefb624f12bcda3cc87c0d5e27.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/45e48dcefb624f12bcda3cc87c0d5e27.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "4a2d9f18-b7e5-43c6-a089-2f5db6e7c103",
+        "isDefault": 0,
+        "sort": 277,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/a3be5751affb4982a94866a9b9274d83.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "bust-surge",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10649,
+        "templateName": "Gentle Touch",
+        "templateEnName": "Gentle Touch",
+        "templateCnName": "低眉触感",
+        "categoryCnName": "激情31",
+        "categoryId": 554,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6782e40d10834e7f91f8dea2d7d6b5dc.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6782e40d10834e7f91f8dea2d7d6b5dc.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6782e40d10834e7f91f8dea2d7d6b5dc.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/6782e40d10834e7f91f8dea2d7d6b5dc.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "1f4e8c6b-a793-42d5-8e17-0b9fd54a6c28",
+        "isDefault": 0,
+        "sort": 268,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/c000cffcd019403a94fc2f2bbd188931.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "gentle-touch",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10654,
+        "templateName": "Skin Rhythm",
+        "templateEnName": "Skin Rhythm",
+        "templateCnName": "贴肤热动",
+        "categoryCnName": "激情33",
+        "categoryId": 559,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2cf26051a3e74434924cecabebe31fd9.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2cf26051a3e74434924cecabebe31fd9.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2cf26051a3e74434924cecabebe31fd9.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2cf26051a3e74434924cecabebe31fd9.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "9d38f6a1-c7b2-4e05-8f21-3a6b492dc708",
+        "isDefault": 0,
+        "sort": 273,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/76f11a1d5dc74e448b0ea5d4ed2e7ac3.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "skin-rhythm",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10639,
+        "templateName": "Body Wave",
+        "templateEnName": "Body Wave",
+        "templateCnName": "俏皮一刻",
+        "categoryCnName": "激情22",
+        "categoryId": 544,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f048a6ccc25c415b8b6a44d34b2e04bf.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f048a6ccc25c415b8b6a44d34b2e04bf.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f048a6ccc25c415b8b6a44d34b2e04bf.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/f048a6ccc25c415b8b6a44d34b2e04bf.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "d19f7e23-a584-49b6-8c02-3f7a91bd56e0",
+        "isDefault": 0,
+        "sort": 258,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/f67d4706e681448ab56c8086e0842fb8.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "body-wave",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10519,
+        "templateName": "Hot Temptation",
+        "templateEnName": "Hot Temptation",
+        "templateCnName": "热力诱惑",
+        "categoryCnName": "激情3",
+        "categoryId": 428,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c9fb8857ef1c4e2590b15d20567753c2.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c9fb8857ef1c4e2590b15d20567753c2.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c9fb8857ef1c4e2590b15d20567753c2.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/c9fb8857ef1c4e2590b15d20567753c2.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "11bf5b37-e0b8-42e0-8dcf-dc8c4a1a4396",
+        "isDefault": 0,
+        "sort": 144,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/379154f477c54c41af83072ea7f3dd90.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "hot-temptation",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10645,
+        "templateName": "Twerk Fever",
+        "templateEnName": "Twerk Fever",
+        "templateCnName": "臀动沸点",
+        "categoryCnName": "激情24",
+        "categoryId": 550,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9f5432b6caa4909b65b6ec0ed4c6d62.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9f5432b6caa4909b65b6ec0ed4c6d62.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9f5432b6caa4909b65b6ec0ed4c6d62.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/d9f5432b6caa4909b65b6ec0ed4c6d62.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "58e47c0b-d923-41af-86d5-f1a9c74b2e30",
+        "isDefault": 0,
+        "sort": 264,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/0527a2952ff44265bc3c560bc4b4a03f.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "twerk-fever",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10651,
+        "templateName": "Desire Ignited",
+        "templateEnName": "Desire Ignited",
+        "templateCnName": "性感开火",
+        "categoryCnName": "激情34",
+        "categoryId": 556,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48439b04acd94c4b9e5bf4f7de1c77c8.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48439b04acd94c4b9e5bf4f7de1c77c8.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48439b04acd94c4b9e5bf4f7de1c77c8.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/48439b04acd94c4b9e5bf4f7de1c77c8.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "b7c5a936-f042-4d81-9e3d-1752f8c09aed",
+        "isDefault": 0,
+        "sort": 270,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/e5150ca215814d63b8d41bfd4d20c060.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "desire-ignited",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10644,
+        "templateName": "Pet Allure",
+        "templateEnName": "Pet Allure",
+        "templateCnName": "乖宠撩心",
+        "categoryCnName": "激情23",
+        "categoryId": 549,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2a2224e2216343ea8a6dd05a36d160cf.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2a2224e2216343ea8a6dd05a36d160cf.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2a2224e2216343ea8a6dd05a36d160cf.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/2a2224e2216343ea8a6dd05a36d160cf.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f27a8d1c-6b39-45e8-90f4-32c517de6b9a",
+        "isDefault": 0,
+        "sort": 263,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/eaa346caecf4405f99c09236f364663b.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "pet-allure",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10614,
+        "templateName": "Forbidden Scenery",
+        "templateEnName": "Forbidden Scenery",
+        "templateCnName": "禁色风景",
+        "categoryCnName": "激情20",
+        "categoryId": 520,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7d50673787fa45d894a528a3b215e842.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7d50673787fa45d894a528a3b215e842.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7d50673787fa45d894a528a3b215e842.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/7d50673787fa45d894a528a3b215e842.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "464 x 832",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f4a7b3d0-9c1e-4f8a-b1d5-2c6e7a8b9c0d",
+        "isDefault": 0,
+        "sort": 234,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/45b19474d8694974a6bb2bc8f039e87d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "forbidden-scenery",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10615,
+        "templateName": "Seductive Sister",
+        "templateEnName": "Seductive Sister",
+        "templateCnName": "诱惑圣姬",
+        "categoryCnName": "激情19",
+        "categoryId": 521,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b4253b02356e47c1bb5088bf5b7db16f.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b4253b02356e47c1bb5088bf5b7db16f.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b4253b02356e47c1bb5088bf5b7db16f.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/b4253b02356e47c1bb5088bf5b7db16f.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "c7b2a3d1-f4e8-4a9b-a1c5-d4e3f2b1a0c9",
+        "isDefault": 0,
+        "sort": 235,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/bd15dd32b77b4fc49934e3184c8d5b69.mp3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "seductive-sister",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10429,
+        "templateName": "Sultry Moves",
+        "templateEnName": "Sultry Moves",
+        "templateCnName": "性感律动",
+        "categoryCnName": "跳舞2",
+        "categoryId": 322,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9d519133e69244e08a0ca181b3f2dc0f.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9d519133e69244e08a0ca181b3f2dc0f.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9d519133e69244e08a0ca181b3f2dc0f.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9d519133e69244e08a0ca181b3f2dc0f.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "ffc5e1a5-5a9b-45d0-b7ca-ef0cc43b0e19",
+        "isDefault": 0,
+        "sort": 57,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/5ede647e36e14e82aaaffe3531f7072b.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "sultry-moves",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body portrait of the person.",
+            "guideX": 360,
+            "guideY": 183,
+            "guideScale": 36,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              },
+              {
+                "type": 2,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10591,
+        "templateName": "Seductive Disco",
+        "templateEnName": "Seductive Disco",
+        "templateCnName": "迷情迪斯科",
+        "categoryCnName": "激情13",
+        "categoryId": 497,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cbe3d9f6b8204d1d904ba56aa478ff86.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cbe3d9f6b8204d1d904ba56aa478ff86.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cbe3d9f6b8204d1d904ba56aa478ff86.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/cbe3d9f6b8204d1d904ba56aa478ff86.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+        "isDefault": 0,
+        "sort": 211,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 0,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/c2de6b1ca4f74572ad49ebd0b6f03843.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "seductive-disco",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10428,
+        "templateName": "Hot Dance",
+        "templateEnName": "Hot Dance",
+        "templateCnName": "热舞",
+        "categoryCnName": "跳舞1",
+        "categoryId": 321,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/828a5839052b4fe291cc02e6a0126cce.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/828a5839052b4fe291cc02e6a0126cce.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/828a5839052b4fe291cc02e6a0126cce.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/828a5839052b4fe291cc02e6a0126cce.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+        "isDefault": 0,
+        "sort": 56,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/0c41c813f1be44ec9b9df1684a86825d.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "hot-dance",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10625,
+        "templateName": "Quiet Pleasures",
+        "templateEnName": "Quiet Pleasures",
+        "templateCnName": "静阅偷欢",
+        "categoryCnName": "尺度6",
+        "categoryId": 530,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.68,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8178e52c3bd042b98e6ddccff26be32d.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8178e52c3bd042b98e6ddccff26be32d.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8178e52c3bd042b98e6ddccff26be32d.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/8178e52c3bd042b98e6ddccff26be32d.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "784 x 1152",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "2d9b3a0e-7c5f-4e1d-8b9a-0c1d2e3f4a5b",
+        "isDefault": 0,
+        "sort": 244,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/7e9268d4ef6b4a85b1c6d9c3cfae0db1.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "quiet-pleasures",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10617,
+        "templateName": "Rail Desire",
+        "templateEnName": "Rail Desire",
+        "templateCnName": "铁轨欲潮",
+        "categoryCnName": "尺度1",
+        "categoryId": 523,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/806eba6be4464766a4e376bdd82d1c92.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/806eba6be4464766a4e376bdd82d1c92.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/806eba6be4464766a4e376bdd82d1c92.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/806eba6be4464766a4e376bdd82d1c92.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "a4e1e3b4-0b1a-4d7e-9c8b-3f2a1d6c5b4e",
+        "isDefault": 0,
+        "sort": 237,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/eba838ed49ac4860bdf3e32e6c8c7cef.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "rail-desire",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10618,
+        "templateName": "Silk Desire",
+        "templateEnName": "Silk Desire",
+        "templateCnName": "丝眠暗欲",
+        "categoryCnName": "尺度3",
+        "categoryId": 524,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9f0c73135c144b7fb0efa2226cf0f00b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9f0c73135c144b7fb0efa2226cf0f00b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9f0c73135c144b7fb0efa2226cf0f00b.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/9f0c73135c144b7fb0efa2226cf0f00b.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "f8c3d3e0-5e3c-4b8a-8f1d-2e9c6b3a0f1c",
+        "isDefault": 0,
+        "sort": 238,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/78a090a50f4a47129c126e45ffb1a368.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "silk-desire",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10411,
+        "templateName": "Dance Live",
+        "templateEnName": "Dance Live",
+        "templateCnName": "跳舞直播",
+        "categoryCnName": "直播间-跳舞海外",
+        "categoryId": 302,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4979829d14a84cc9ba1da8002347e1de.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4979829d14a84cc9ba1da8002347e1de.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4979829d14a84cc9ba1da8002347e1de.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/4979829d14a84cc9ba1da8002347e1de.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "1080 x 1920",
+        "videoLength": "4.0s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "7d9e5f3a-2b8c-4d6e-9f0a-1c3e5b7d9f2a",
+        "isDefault": 0,
+        "sort": 39,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 50,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/7279260267c540b1a8bab6cfa2e6d440.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "Dance Live Video Template – Stage Energy",
+        "pageSeoDesc": "Capture electrifying performances with Dance Live in PixPop. Perfect for concerts, shows, and dance edits. Start today!",
+        "templateSeoPath": "dance-live",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "4s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Full body shot of a person",
+            "desc": "Please upload a clear full-body portrait of the person.",
+            "guideX": 360,
+            "guideY": 183,
+            "guideScale": 36,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              },
+              {
+                "type": 2,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10626,
+        "templateName": "Crimson Howl",
+        "templateEnName": "Crimson Howl",
+        "templateCnName": "绯色狼吟",
+        "categoryCnName": "尺度7",
+        "categoryId": 531,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.57,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e150a8ab93bf4ebd8c959befd520c983.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e150a8ab93bf4ebd8c959befd520c983.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e150a8ab93bf4ebd8c959befd520c983.MP4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/e150a8ab93bf4ebd8c959befd520c983.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1264",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "2b1a7ead-89e7-4409-8e4b-81a1158a153c",
+        "isDefault": 0,
+        "sort": 245,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/ec848a2ccc6e48ee8ebc0c9cf6b2be80.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "crimson-howl",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10616,
+        "templateName": "Fervent Kiss",
+        "templateEnName": "Fervent Kiss",
+        "templateCnName": "浓吻倾情",
+        "categoryCnName": "尺度4",
+        "categoryId": 522,
+        "suitId": 0,
+        "templateFunction": 1,
+        "tagId": 10039,
+        "height": 0,
+        "width": 0,
+        "aspectRatio": 0.56,
+        "firstImageUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56dc50b3199549c1bab3ae9e6cc9323b.jpg",
+        "thumbUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56dc50b3199549c1bab3ae9e6cc9323b.jpg?x-image-process=image%2Fresize%2Cp_100%2Fformat%2Cwebp%2Fquality%2Cq_80%2Fstrip",
+        "movieUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56dc50b3199549c1bab3ae9e6cc9323b.mp4",
+        "previewMovUrl": "https://meiapps.ipolaris-tech.com/airepair/template/56dc50b3199549c1bab3ae9e6cc9323b.webp?v=5",
+        "videoModel": "tensorsAI",
+        "videoResolution": "720 x 1280",
+        "videoLength": "5s",
+        "aiType": 0,
+        "lastAiType": 0,
+        "supplier": 2,
+        "mergeImage": 0,
+        "thirdId": "2a8f8b7a-9a4b-4c7d-8e1f-3b5a6c7d8e9f",
+        "isDefault": 0,
+        "sort": 236,
+        "isCollect": false,
+        "priceGear": 0,
+        "showPortrait": 1,
+        "voiceGender": 0,
+        "voiceText": "",
+        "pointCost": 90,
+        "previewBgm": "https://meiapps.ipolaris-tech.com/airepair/template/3fbc429acb3646169994aa22e1836da4.MP3",
+        "audioUrl": "",
+        "audioLength": 0.0,
+        "pageSeoTitle": "",
+        "pageSeoDesc": "",
+        "templateSeoPath": "fervent-kiss",
+        "extParams": {
+          "videoLength": [
+            {
+              "time": "5s"
+            }
+          ],
+          "resolution": [
+            {
+              "ration": "720p"
+            }
+          ]
+        },
+        "images": [
+          {
+            "name": "Character",
+            "desc": "Please upload a clear full-body photo facing forward.",
+            "guideX": 360,
+            "guideY": 384,
+            "guideScale": 83,
+            "width": 720,
+            "height": 1280,
+            "limit": [
+              {
+                "type": 0,
+                "num": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "message": {
+    "code": 200,
+    "messageInfo": "ok",
+    "serverTime": 1766677273757
+  }
+}
