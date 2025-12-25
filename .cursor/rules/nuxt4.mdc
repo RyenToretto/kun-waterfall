@@ -1,0 +1,118 @@
+---
+alwaysApply: true
+---
+
+# 你是本项目的最顶级的前端开发工程师，请遵循包括但不限于：
+
+- Nuxt 4 采用了新的文件夹组织结构，需要严格遵守 app/ 目录的规范。而不是nuxt3那种老的文件夹架构;
+- 类型统一定义在 /shared/types下面，分文件定义.d.ts,并掌握所有类型，避免数据结构不统一;
+- css代码不允许使用&拼接类名，必须写完整的类名;
+- 禁止在 dom 里使用 tailwindcss 提供的 class, 以保证整洁;
+- pinia优先setup形式的store,而非选项式定义store;
+- 任何地方，使用多语key时，都必须检查是否有定义对应的的i18n key，没有的话需要补充;
+- 开发前，牢记整个项目的架构，文件夹结构，技术栈，依赖;
+- 仔细分析，实时分析.nuxt下面的所有.d.ts, 以前非常确定 nuxt4 已经配置好了auto import;
+- .nuxt目录下包括但不限于auto-imports.d.ts的文件，实现了自动导入，所以app下面不要做不必要的导入;
+- 熟悉并正确使用本项目中所有依赖;
+- const { t } = useI18n(); // 组件环境
+- const { $i18n } = useNuxtApp(); // 特殊环境，nuxt4中 i18n 的用法
+- 遵循模块化、组合式风格（使用 hook / composable / store / auto-import 约定）;
+- 遵循 ESLint: Replace `process.client` with `import.meta.client`. (nuxt/prefer-import-meta)
+- <style></style>标签禁止使用 scoped，而是将样式都写在组件的class里面，实现样式隔离，bem class 模式如下;
+  - 比如页面级别组件 .page-example{ .example-view**head {} .example-view**foot {} }
+  - 比如非页面级别的组件 .example-header { .example-hd**wrapper {} .example-hd**core {} }
+  - 一级 class 不可被复用：比如组件的根 class 为 example-header, 那么其他所有class名不得包含example-header，必须另起一名字，比如叫 example-hd**
+    或者是 exp-hd**
+- 不允许单class，组件必须至少有一个class;
+  - 页面级别的必须有一个以page-开头的class, 比如demo.vue页面组件的class="page-demo" 或者 class="page-demo
+    example-view"这样，必须总有一个 page- 开头的 class
+  - 非页面级别，比如 ExampleHeader.vue class="example-header" 或者 class="example-header
+    usual-header" 这样，必须总有一个 "example-header" 这样的 class
+- <style></style>标签之间不允许有空行
+
+## useTips() 使用规范 - AI 开发助手指南
+
+### 1. 导入和初始化
+
+```vue
+<script setup>
+// 在 Vue 组件中
+const doTips = useTips()
+const { t } = useI18n()
+
+// 在 composable 或其他非组件环境中
+const { $i18n } = useNuxtApp()
+const doTips = useTips()
+doTips('一般提示')
+doTips.info('一般提示2')
+doTips.success('成功提示')
+doTips.error('错误提示')
+doTips.warning('警告提示')
+</script>
+```
+
+### 2. 显示提示信息
+
+```javascript
+// ✅ 正确：使用 i18n 翻译键
+doTips.success(t('success.copiedToClipboard'))
+doTips.error(t('error.copyFailed'))
+
+// ❌ 错误：硬编码文本
+doTips.success('Copied to clipboard')
+doTips.error('Copy failed')
+```
+
+### 3. 常用场景和翻译键
+
+#### 复制操作
+
+```javascript
+// 复制成功
+doTips.success(t('success.copiedToClipboard'))
+
+// 复制失败
+doTips.error(t('error.failedToCopy'))
+```
+
+#### 下载操作
+
+```javascript
+// 下载开始
+doTips(t('success.downloadStarted'))
+
+// 下载失败
+doTips.error(t('error.downloadFailed'))
+
+// 视频链接不可用
+doTips.warning(t('error.noVideoUrl'))
+```
+
+### 4. 检查清单
+
+在使用 `useTips()` 时，请确保：禁止使用硬编码文本
+
+## 严格禁止使用原生 HTML5 验证属性的开发规范
+
+### 问题背景
+
+在之前的开发中，我们发现使用 `type="email"` 和 `required` 等原生 HTML5 验证属性会导致以下问题：
+
+1. 浏览器原生提示与我们的 i18n 多语言系统冲突
+2. 无法统一控制错误提示的样式和行为
+3. 在不同浏览器中表现不一致
+
+### 强制规范
+
+#### 绝对禁止使用的属性（所有表单验证必须通过自定义来实现校验）
+
+- **严禁** 在任何 input 元素中,使用以下属性：
+
+```html
+<!-- 禁止使用 -->
+<input type="email" />
+<input required />
+<input pattern="..." />
+<input minlength="..." />
+<input maxlength="..." />
+```

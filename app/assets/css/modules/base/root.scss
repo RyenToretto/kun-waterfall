@@ -1,0 +1,198 @@
+@use '../../common/mixins.scss' as *;
+
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --font-family-roboto: 'Roboto', Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+  Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB, sans-serif;
+  --font-family-poppins: 'Poppins', PingFangSC, Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB, sans-serif;
+  --font-family-regular: PingFangSC, Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB, sans-serif;
+  --font-family-medium: PingFangSC-Medium, PingFang SC, Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB, sans-serif;
+  --font-family-semibold: PingFangSC-Semibold, PingFang SC, Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB, sans-serif;
+  --font-family-din: DIN-Bold, PingFangSC-Medium, PingFang SC, Inter, Inter Fallback, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Helvetica Neue, Tahoma, Microsoft Yahei, Arial, Hiragino Sans GB,
+    sans-serif;
+
+  --base-font-family: var(--font-family-roboto);
+
+  --base-white: #ffffff;
+  --base-white-soft: #f8f8f8;
+  --base-white-mute: #f2f2f2;
+
+  --base-black: #181818;
+  --base-black-soft: #222222;
+  --base-black-mute: #282828;
+
+  --base-gray: #888888;
+  --bg-light-gray: #f8f8fa;
+
+  --base-green: hsla(160, 100%, 37%, 1);
+  --base-green-bg: hsla(160, 100%, 37%, 0.2);
+
+  --base-blue: #3376de;
+  --base-blue-bg: hsla(219, 95%, 75%, 0.2);
+
+  --hover-bg-color: rgba(255, 255, 255, 0.1); /* white/10 */
+
+  /* League of Legends Theme Variables - 英雄联盟主题变量 */
+  --lol-head-height: 70px;
+
+  /* 主色调 - Primary Colors */
+  --lol-primary: #C89B3C;           /* 金色主色 */
+  --lol-primary-light: #F0E6D2;     /* 金色高光 */
+  --lol-primary-dark: #A0782C;      /* 金色暗色 */
+  --lol-primary-hover: #D4A853;     /* 金色悬停态 */
+
+  /* 辅助色 - Secondary Colors */
+  --lol-secondary: #0596AA;         /* 蓝色科技感 */
+  --lol-secondary-light: #5BC0DE;   /* 蓝色高光 */
+  --lol-secondary-dark: #0F2027;    /* 蓝色暗色 */
+
+  /* 背景色 - Background Colors */
+  --lol-bg-primary: #010101;        /* 主背景色 */
+  --lol-bg-secondary: #1E2328;      /* 次要背景色 */
+  --lol-bg-surface: #3C3C41;        /* 表面色 */
+  --lol-bg-card: #1E2328;           /* 卡片背景 */
+  --lol-background-primary: #0A0E13;   /* 主背景色 (兼容) */
+  --lol-background-secondary: #1E2328; /* 次要背景色 (兼容) */
+
+  /* 文字颜色 - Text Colors */
+  --lol-text-primary: #F0E6D2;      /* 主文字色 */
+  --lol-text-secondary: #A09B8C;    /* 次要文字色 */
+  --lol-text-muted: #5BC0DE;        /* 静音文字色 */
+  --lol-text-accent: #C89B3C;       /* 强调文字色 */
+
+  /* 边框颜色 - Border Colors */
+  --lol-border-primary: #C89B3C;    /* 主边框色 */
+  --lol-border-secondary: #0596AA;  /* 次要边框色 */
+  --lol-border-muted: #3C3C41;      /* 静音边框色 */
+  --lol-border: #3C3C41;            /* 通用边框色 */
+
+  /* 发光效果 - Glow Effects */
+  --lol-glow-primary: 0 0 20px rgba(200, 155, 60, 0.5);
+  --lol-glow-secondary: 0 0 15px rgba(5, 150, 170, 0.4);
+  --lol-glow-accent: 0 0 10px rgba(240, 230, 210, 0.3);
+
+  /* Primary colors */
+  --primary-50:  #faf5ff;
+  --primary-100: #f3e8ff;
+  --primary-200: #e9d5ff;
+  --primary-300: #d8b4fe;
+  --primary-400: #c084fc;
+  --primary-500: #a855f7; /* 👈 主色 */
+  --primary-600: #9333ea;
+  --primary-700: #7c3aed;
+  --primary-800: #6b21a8;
+  --primary-900: #581c87;
+
+  --grey-50:  #faf5ff;
+  --grey-100: #f3e8ff;
+  --grey-200: #e9d5ff;
+  --grey-300: #d8b4fe;
+  --grey-400: #c084fc;
+  --grey-500: #a855f7;
+  --grey-600: #9333ea;
+  --grey-700: #7c3aed;
+  --grey-800: #6b21a8;
+  --grey-900: #581c87;
+
+
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+
+  /* Purple colors */
+  --purple-50: #faf5ff;
+  --purple-100: #f3e8ff;
+  --purple-200: #e9d5ff;
+  --purple-300: #d8b4fe;
+  --purple-400: #c084fc;
+  --purple-500: #a855f7;
+  --purple-600: #9333ea;
+  --purple-700: #7c3aed;
+  --purple-800: #6b21a8;
+  --purple-900: #581c87;
+
+  /* Success colors */
+  --green-50: #f0fdf4;
+  --green-100: #dcfce7;
+  --green-200: #bbf7d0;
+  --green-300: #86efac;
+  --green-400: #4ade80;
+  --green-500: #22c55e;
+  --green-600: #16a34a;
+  --green-700: #15803d;
+  --green-800: #166534;
+  --green-900: #14532d;
+
+  /* Warning colors */
+  --yellow-50: #fefce8;
+  --yellow-100: #fef3c7;
+  --yellow-200: #fde68a;
+  --yellow-300: #fcd34d;
+  --yellow-400: #fbbf24;
+  --yellow-500: #f59e0b;
+  --yellow-600: #d97706;
+  --yellow-700: #b45309;
+  --yellow-800: #92400e;
+  --yellow-900: #78350f;
+
+  /* Error colors */
+  --red-50: #fef2f2;
+  --red-100: #fee2e2;
+  --red-200: #fecaca;
+  --red-300: #fca5a5;
+  --red-400: #f87171;
+  --red-420: #d24764;
+  --red-500: #ef4444;
+  --red-600: #dc2626;
+  --red-700: #b91c1c;
+  --red-800: #991b1b;
+  --red-900: #7f1d1d;
+
+  /* 阴影 */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+  /* 过渡动画 */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+  --base-divider-light-1: rgba(60, 60, 60, 0.29);
+  --base-divider-light-2: rgba(60, 60, 60, 0.12);
+  --base-divider-dark-1: rgba(84, 84, 84, 0.65);
+  --base-divider-dark-2: rgba(84, 84, 84, 0.48);
+}
+
+:root {
+  @media (min-width: 1620px) {
+    --container-max-width: 1600px;
+  }
+}
+
+.dark {
+  --color-border: var(--base-divider-dark-2);
+  --color-border-hover: var(--base-divider-dark-1);
+
+  --color-text: var(--base-white);
+  --base-link: rgba(15, 251, 211, 1);
+
+  --hover-bg: rgba(168, 85, 247, 0.15); // 半透明紫色高亮
+  --hover-color: #d9b3ff; // 浅紫色文字（更亮，提升可读性）
+  --active-color: rgba(168, 85, 247, 0.25); // 点击时更深效果
+
+  --pix-option-bg: #2F3545;
+}

@@ -1,0 +1,135 @@
+@use '../common/mixins.scss' as *;
+
+.do-dialog-layer {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.do-dialog-card {
+  --container-lg: 658px;
+  --dialog-card-bg: #181C28;
+
+  box-sizing: border-box;
+  border-radius: 16px;
+  background-color: var(--dialog-card-bg, #1e293b);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.do-dialog__empty {
+  display: none;
+}
+
+.do-dialog__detail_card {
+  --dialog-card-bg: #181C28;
+  --dialog-card-width: 83.23vw;
+  --dialog-card-height: 84.44vh;
+
+  box-sizing: border-box;
+  width: var(--dialog-card-width);
+  max-width: 1598px;
+  height: var(--dialog-card-height);
+  min-height: 500px;
+  max-height: 912px;
+  overflow: visible;
+  border-radius: 8px;
+  box-shadow: none;
+  @include doLayout();
+}
+
+.do-dialog-header {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  .do-dialog-title {
+    box-sizing: border-box;
+    padding: 16px 6px 16px 22px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .do-dialog-back {
+    box-sizing: border-box;
+    padding: 16px 6px 16px 20px;
+    .do-dialog__back_ico {
+      box-sizing: border-box;
+      width: 24px;
+      height: 24px;
+      background-color: #2F3545;
+      border-radius: 50%;
+      color: #ffffff;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      &:hover {
+        background-color: rgba(148, 163, 184, 0.2);
+      }
+    }
+  }
+  .do-dialog-close {
+    box-sizing: border-box;
+    padding: 16px 22px 16px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.do-dialog-body {
+  box-sizing: border-box;
+  padding: 13px 0 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.do-dialog__title {
+  font-size: 28px;
+  color: #ffffff;
+  white-space: nowrap;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  .active {
+    color: #9c47f1;
+  }
+  &.do-dialog__small_title {
+    font-size: 32px;
+  }
+}
+
+.do-dialog__sub_title {
+  box-sizing: border-box;
+  margin-top: 6px;
+  padding: 4px 72px;
+  max-width: 100%;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  .active {
+    color: #9c47f1;
+  }
+}
+
+.do-dialog__ico_close {
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+  font-size: 14px;
+  color: #99A4BA;
+  cursor: pointer;
+  transition: color 0.3s linear;
+  &:hover {
+    color: #ffffff;
+  }
+}
+
+.do-dialog__hide_hd > span {
+  display: none;
+}

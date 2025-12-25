@@ -1,0 +1,64 @@
+@use '../common/mixins.scss' as *;
+
+.do-toaster {
+  z-index: 999999;
+  width: calc(100% - 30px);
+  height: auto;
+  top: 130px;
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  .do-toast__base {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 6px;
+    width: auto;
+    max-width: 100%;
+    border: 0 none;
+    box-shadow: none;
+    background-color: rgba(80, 80, 80, 0.7);
+    border-radius: 6px;
+    gap: 3px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: static;
+    > .iconify {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      font-size: 18px;
+    }
+    > div {
+      box-sizing: border-box;
+      padding: 3px 0 0;
+      width: auto;
+      flex: 0 1 auto;
+      display: inline-block;
+      > div {
+        width: auto;
+        line-height: 1.16667;
+        font-size: 12px;
+        font-weight: 400;
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.do-view {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: stretch;
+}
+
+.do-wrapper {
+  width: 100%;
+  /* px-to-viewport-ignore-next */
+  max-width: var(--container-max-width, 1376px);
+  margin: 0 auto;
+  padding: 0 16px;
+}

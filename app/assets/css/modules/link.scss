@@ -1,0 +1,28 @@
+.normal-link {
+  white-space: nowrap;
+  color: white;
+  text-decoration: none;
+  user-select: none;
+  line-height: 1.4;
+  cursor: pointer;
+  &.with-underline {
+    position: relative;
+    &::after {
+      content: '';
+      display: block;
+      box-sizing: border-box;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #9C47F1 0%, #8770E4 100%);
+      position: absolute;
+      bottom: -2px;
+      left: 50%;
+      transform: translateX(-50%);
+      transition: all 0.3s ease;
+    }
+    &:hover::after,
+    &.router-link-active::after {
+      width: 100%;
+    }
+  }
+}

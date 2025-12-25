@@ -1,0 +1,64 @@
+@use '../common/mixins.scss' as *;
+
+.pure-number {
+  font-family: Verdana, Geneva, Tahoma, monospace, sans-serif;
+}
+
+.ellipsis {
+  @include ellipsis();
+  &.inline-block {
+    display: inline-block;
+  }
+}
+
+.do-scrollbar {
+  @include doScrollbar();
+}
+
+.do-small-scrollbar {
+  @include doScrollbar(8px, 8px);
+}
+
+.do-night-scrollbar {
+  @include doScrollbar(10px, 10px, #3a3f54, #181C28);
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.mt-67 {
+  margin-top: 67px;
+}
+
+/* 隐藏 Safari/Chrome 输入框右边的联系人按钮 */
+input::-webkit-contacts-auto-fill-button {
+  visibility: hidden;
+  display: none !important;
+  pointer-events: none;
+}
+
+/* 隐藏 Safari/Chrome 自动填充下拉箭头（如果有） */
+input::-webkit-credentials-auto-fill-button {
+  visibility: hidden;
+  display: none !important;
+  pointer-events: none;
+}
+
+/* 一些浏览器可能用这个伪元素显示 UI，统一隐藏 */
+input::-webkit-calendar-picker-indicator {
+  display: none !important;
+  -webkit-appearance: none;
+}

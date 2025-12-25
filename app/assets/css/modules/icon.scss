@@ -1,0 +1,23 @@
+.do-icon {
+  width: 1em;
+  font-size: inherit;
+  color: inherit;
+}
+
+.do-grey-close {
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 2px;
+  color: #99a4ba;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: color 0.3s linear;
+  &:hover {
+    color: #ffffff;
+  }
+}

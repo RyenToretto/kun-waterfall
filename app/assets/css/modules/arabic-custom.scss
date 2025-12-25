@@ -1,0 +1,24 @@
+@use '../common/mixins.scss' as *;
+
+html[dir='rtl'] * {
+  letter-spacing: 0 !important;
+}
+
+.arabic-label {
+  direction: rtl;
+}
+
+@include arabic-view() {
+  .van-rate {
+    > .van-rate__item {
+      &:not(:last-child) {
+        padding-right: 0;
+        padding-left: 4px;
+      }
+      .van-rate__icon--half {
+        left: unset;
+        right: 0;
+      }
+    }
+  }
+}

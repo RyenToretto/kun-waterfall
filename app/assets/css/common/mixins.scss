@@ -1,0 +1,253 @@
+/* 响应式断点 */
+/* 断点 */
+$big-pc: 1920px;
+$medium-pc: 1440px;
+$air-pc: 1280px;
+$tablet: 1024px;
+
+@mixin transitionDefault() {
+  .transition-default-enter-active,
+  .transition-default-leave-active {
+    transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1) !important;
+  }
+
+  .transition-default-move {
+    transition: transform 0.4s;
+  }
+}
+
+@mixin arabic-view {
+  html[dir='rtl'] {
+    @content;
+  }
+}
+
+@mixin dark-view {
+  .dark {
+    @content;
+  }
+}
+
+@mixin doScrollbar($sw: 10px, $sh: 10px, $thumbColor: #c1c1c1, $trackColor: #f8f8f9) {
+  @media (min-width: 1024px) {
+    &::-webkit-scrollbar {
+      width: $sw;
+      height: $sh;
+    }
+    &::-webkit-scrollbar-track-piece {
+      border: if($sw >= 8px or $sh >= 8px, 2px solid $trackColor, 1px solid $trackColor);
+      background: $trackColor;
+    }
+    &::-webkit-scrollbar-thumb {
+      border: if($sw >= 8px or $sh >= 8px, 2px solid $trackColor, 1px solid $trackColor);
+      border-radius: 6px;
+      background-color: $thumbColor;
+      &:hover {
+        background-color: #7d7d7d;
+      }
+    }
+    &::-webkit-scrollbar-button:end:increment,
+    &::-webkit-scrollbar-button:start:decrement {
+      display: none;
+    }
+  }
+}
+
+@mixin boxShadow($normal-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.3)) {
+  box-shadow: $normal-shadow;
+}
+
+@mixin mainHoverActive() {
+  &:hover {
+    background-color: var(--hover-bg);
+    color: var(--hover-color);
+  }
+  &:active {
+    background-color: var(--active-color);
+  }
+}
+
+@mixin ellipsis($lines: 1) {
+  @if $lines >= 2 {
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: $lines;
+    -webkit-box-orient: vertical;
+  } @else {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+  }
+}
+
+@mixin doEllipsis($line-count: 2, $e-size: 12px, $e-height: 1.5) {
+  display: -webkit-box;
+  -webkit-line-clamp: $line-count;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: $e-size;
+  line-height: $e-height;
+  min-height: $e-height;
+  max-height: $e-height * $line-count;
+  cursor: default;
+}
+
+// Clearfix
+// http://www.cssmojo.com/latest_new_clearfix_so_far/
+// Other clearfix options: https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_clearfix-me.scss
+@mixin clearfix {
+  &::after {
+    clear: both;
+    content: '';
+    display: table;
+  }
+}
+
+@mixin medium-pc {
+  @media (min-width: 1441px) and (max-width: #{$big-pc}) {
+    @content;
+  }
+}
+
+@mixin air-pc {
+  @media (min-width: #{$tablet}) and (max-width: #{$medium-pc}) {
+    @content;
+  }
+}
+
+@mixin pc {
+  @media (min-width: #{$tablet}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: #{$tablet}) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: #{$tablet - 1px}) {
+    @content;
+  }
+}
+
+@mixin media-breakpoint-up($min) {
+  @media (min-width: $min) {
+    @content;
+  }
+}
+
+@mixin media-breakpoint-down($max) {
+  @media (max-width: $max) {
+    @content;
+  }
+}
+
+@mixin media-breakpoint-between($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+// 设计稿适配专用mixins
+@mixin design-px($property, $pc-value, $mobile-value: null) {
+  // PC端：直接使用px值，PostCSS会自动转换为vw
+  @include pc {
+    #{$property}: #{$pc-value}px;
+  }
+
+  // 移动端：如果提供了移动端值则使用，否则使用PC端值
+  @include mobile() {
+    #{$property}: #{if($mobile-value, $mobile-value, $pc-value)}px;
+  }
+}
+
+// 响应式字体大小
+@mixin responsive-font($pc-size, $mobile-size: null) {
+  @include design-px(font-size, $pc-size, $mobile-size);
+}
+
+// 响应式间距
+@mixin responsive-spacing($property, $pc-value, $mobile-value: null) {
+  @include design-px($property, $pc-value, $mobile-value);
+}
+
+@mixin glass-effect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+@mixin doLayout() {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+
+// Text selection
+@mixin text-selection($color-selection, $color-selection-bg) {
+  ::-moz-selection {
+    // sass-lint:disable-line no-vendor-prefixes
+    background: $color-selection-bg;
+    color: $color-selection;
+    text-shadow: none;
+  }
+
+  ::selection {
+    background: $color-selection-bg;
+    color: $color-selection;
+    text-shadow: none;
+  }
+}
+
+//Placeholders
+//Usage:
+//@include placeholder;
+@mixin colorPlaceholder($color-placeholder) {
+  // sass-lint:disable no-vendor-prefixes
+  ::-webkit-input-placeholder {
+    color: $color-placeholder;
+  }
+  :-moz-placeholder {
+    color: $color-placeholder;
+  }
+  ::-moz-placeholder {
+    color: $color-placeholder;
+  }
+  :-ms-input-placeholder {
+    color: $color-placeholder;
+  }
+}
+
+// 虚线边框 mixin
+@mixin dashedBorder($color: #9C47F1, $dashLength: 12px, $gapLength: 8px, $borderWidth: 2px) {
+  $totalLength: $dashLength + $gapLength;
+
+  background-image:
+    linear-gradient(to right, $color 0, $color $dashLength, transparent $dashLength, transparent $totalLength),
+    linear-gradient(to right, $color 0, $color $dashLength, transparent $dashLength, transparent $totalLength),
+    linear-gradient(to bottom, $color 0, $color $dashLength, transparent $dashLength, transparent $totalLength),
+    linear-gradient(to bottom, $color 0, $color $dashLength, transparent $dashLength, transparent $totalLength);
+
+  background-size:
+    $totalLength $borderWidth,
+    $totalLength $borderWidth,
+    $borderWidth $totalLength,
+    $borderWidth $totalLength;
+
+  background-position:
+    0 0,      // 上边框，从左上角开始
+    0 100%,   // 下边框，从左下角开始
+    0 0,      // 左边框，从左上角开始
+    100% 0;   // 右边框，从右上角开始
+
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+}

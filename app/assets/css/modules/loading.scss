@@ -1,0 +1,38 @@
+.dark {
+  .pix-loading__mask {
+    --loading-background: rgba(0, 0, 0, 0.5);
+    --loading-text-color: var(--primary-500);
+  }
+}
+
+.pix-loading__mask {
+  --loading-background: rgba(255, 255, 255, 0.8);
+  --loading-text-color: var(--primary-500);
+
+  background-color: var(--loading-background);
+  color: var(--loading-text-color);
+  backdrop-filter: blur(5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  &.pix-loading__fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+  }
+  .pix-loading__spinner {
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pix-loading__spin_text {
+    box-sizing: border-box;
+    padding: 16px 0 0;
+    font-size: 16px;
+  }
+}
